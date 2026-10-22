@@ -1,0 +1,25 @@
+# Local data and generated results
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.sqlite3-*
+*.sqlite3.*
+*.db
+*.log
+.venv/
+.env
+.env.*
+!.env.example
+/data_source/input_config.json
+/data_source/question_video/*
+!/data_source/question_video/.gitkeep
+/evaluation_base/batches/*
+!/evaluation_base/batches/.gitkeep
+/evaluation_base/media_cache/
+/evaluation_base/reports/
+/evaluation_packages/*
+!/evaluation_packages/.gitkeep
+/evaluation_results/*
+!/evaluation_results/.gitkeep
+*.zip
+*.z[0-9][0-9]

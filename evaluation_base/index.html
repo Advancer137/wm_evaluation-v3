@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PreferenceWorldBench · 视频盲评</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark">P<span>W</span></span><span>PreferenceWorldBench <small>VIDEO EVALUATION</small></span></div>
+    <div class="top-right"><span class="privacy"><span class="dot"></span> 视频盲评</span><span id="participant" class="participant"></span></div>
+  </header>
+
+  <main class="shell">
+    <nav id="task-navigation" class="task-navigation hidden" aria-label="题目导航">
+      <div class="navigation-controls">
+        <button id="previous-task" class="secondary" type="button">← 上一题</button>
+        <label for="task-select">跳转题目</label>
+        <select id="task-select" aria-label="跳转题目"></select>
+        <button id="next-task" class="secondary" type="button">下一题 →</button>
+        <button id="continue-tasks" class="secondary" type="button">继续评测</button>
+      </div>
+      <p id="navigation-status" role="status" aria-live="polite"></p>
+    </nav>
+    <section id="welcome" class="welcome">
+      <div class="eyebrow">HUMAN EVALUATION · 标注说明</div>
+      <h1>判断视频里<br><em>实际发生了什么。</em></h1>
+      <p class="lead">你会看到同一初始场景下的两段视频。请对每段视频依次判断：视频是否有效、是否完成基础任务、主体与场景是否保持一致，再判断是否呈现偏好 A、偏好 B。</p>
+      <div class="notice"><span>◎</span><div><strong>只看可见证据</strong><p>不要根据文字补全未展示的动作。两段视频可以都满足、都不满足，或无法判断。X/Y 与生成条件的对应关系已隐藏。</p></div></div>
+      <div class="training">
+        <div class="section-head"><span>01 / 开始前看几个例子</span><span>示意情境，不是真实评测视频</span></div>
+        <div class="examples">
+          <article><span class="example-no">例 01</span><h3>明确可见</h3><p>偏好 A：停在停止线前。视频清楚显示车辆停车。</p><div class="example-answer">A → 是　 B → 否</div></article>
+          <article><span class="example-no">例 02</span><h3>不要强行二选一</h3><p>两段视频都停在路口，且都没有驶过。两段视频对“驶过路口”都应判断为否。</p><div class="example-answer">X 和 Y 可以同为“否”</div></article>
+          <article><span class="example-no">例 03</span><h3>证据不足</h3><p>车辆驶近路口后视频结束，看不到是否停车或驶过。</p><div class="example-answer">选择“无法判断”</div></article>
+          <article><span class="example-no">例 04</span><h3>动作做反或时间倒流</h3><p>基础任务是“把烤盘放进烤箱”，视频里却是把烤盘从烤箱里拿出来；或车辆在倒退；或画面基本静止。视频能正常播放，仍选“有效”。</p><div class="example-answer">基础任务 → 未完成；偏好不再询问，按“否”记录</div></article>
+          <article><span class="example-no">例 05</span><h3>只完成了一部分</h3><p>基础任务是“跑向软垫并跳上去”，视频里只有奔跑、没有起跳；或石蛇只缠绕、没有压碎遗迹。方向和主体是对的，只缺后半或结果。</p><div class="example-answer">基础任务 → 部分完成；偏好仍要回答，只依据已出现的画面判断</div></article>
+          <article><span class="example-no">例 06</span><h3>画面瑕疵不影响答案</h3><p>加油的视频里有一瞬间人与加油机重合，或缺少取下油枪的过程，但加油这件事清楚可见、油枪的快慢也看得清。不要因为画面不自然就改答案。</p><div class="example-answer">基础任务 → 完成；偏好照常判断</div></article>
+          <article><span class="example-no">例 07</span><h3>能看清，但没做到</h3><p>基础任务完成了，但偏好 A（在停止线前停下）并没有出现，车辆直接驶过。清楚地没有做到，要选“否”，不是“无法判断”。</p><div class="example-answer">A → 否（不是“无法判断”）</div></article>
+        </div>
+      </div>
+      <div class="participant-entry"><label for="participant-name">作答者姓名</label><input id="participant-name" type="text" maxlength="80" autocomplete="off" placeholder="请输入你的姓名" required><p>姓名会写入本机结果文件，供组织者收集和核对作答。</p><p id="slot-note" class="hidden"></p><label id="new-participant-row"><input id="new-participant" type="checkbox"> 我是另一位作答者，开始一份新的记录</label></div>
+      <label class="confirm"><input id="read-guide" type="checkbox"><span>我已阅读规则，会观看完整视频并依据画面作答。</span></label>
+      <button id="start" class="primary" disabled>开始评测 <span>→</span></button>
+    </section>
+
+    <section id="workspace" class="workspace hidden">
+      <div class="work-heading"><div><span class="eyebrow">PAIRWISE VIDEO REVIEW</span><h1>观察两种未来</h1></div><div class="progress"><span id="progress-label">0 / 0 已完成</span><div class="progress-track"><div id="progress-fill"></div></div></div></div>
+      <div id="demo-banner" class="demo-banner hidden">演示任务 · 以下画面是模拟动画，提交记录不会进入正式结果。</div>
+      <div class="meta-card">
+        <div class="meta-top"><span>CASE CONTEXT</span><span class="meta-right"><button id="zh-toggle" class="zh-toggle hidden" type="button"></button><span id="case-tags"></span></span></div>
+        <div class="meta-grid">
+          <div class="initial"><div class="field-label">INITIAL FRAME · 初始画面</div><div id="frame-wrap" class="frame-wrap"></div></div>
+          <div class="conditions"><div class="condition"><div class="field-label">SHARED BASE CONDITION · 共同条件</div><p id="base-text"></p><p id="base-zh" class="zh-ref hidden" lang="zh-CN"></p></div><div class="pref-row"><div class="condition pref"><div class="field-label"><b class="pref-badge">A</b> PREFERENCE A</div><p id="pref-a"></p><p id="pref-a-zh" class="zh-ref hidden" lang="zh-CN"></p></div><div class="condition pref"><div class="field-label"><b class="pref-badge">B</b> PREFERENCE B</div><p id="pref-b"></p><p id="pref-b-zh" class="zh-ref hidden" lang="zh-CN"></p></div></div></div>
+        </div>
+      </div>
+      <p id="zh-note" class="zh-note hidden">参考译文仅帮助理解；如与英文原文不一致，请以英文原文为准。</p>
+      <div class="pair-head"><div><span class="eyebrow">02 / 观看视频</span><h2>逐段观看，独立判断</h2></div><span class="hint">两段视频的 X/Y 顺序已随机化</span></div>
+      <div class="video-grid"><div class="video-card"><div class="video-title"><strong>VIDEO X</strong><span>匿名片段</span></div><div id="video-x" class="video-box"></div></div><div class="video-card"><div class="video-title"><strong>VIDEO Y</strong><span>匿名片段</span></div><div id="video-y" class="video-box"></div></div></div>
+      <div class="pair-head questions-head"><div><span class="eyebrow">03 / 记录判断</span><h2>每段视频分别作答</h2></div><span class="hint">“无法判断”是有效答案；视频无效或基础任务未完成时，后面的问题会自动跳过</span></div>
+      <form id="annotation-form">
+        <div id="questions" class="question-grid"></div>
+        <div class="submit-row"><p id="form-error" role="alert"></p><button id="submit" class="primary" type="submit">提交并进入下一对 <span>→</span></button></div>
+      </form>
+    </section>
+
+    <section id="finished" class="finished hidden"><div class="finish-icon">✓</div><span class="eyebrow">SESSION COMPLETE</span><h1>本轮评测已完成</h1><p>你的答案已保存。你仍可以通过上方的题目导航回到任意已答题目，修改后点击“保存修改”。</p><div id="finish-count"></div><button id="restart-demo" class="primary hidden" type="button">重新体验演示 <span>↻</span></button></section>
+  </main>
+  <footer>PreferenceWorldBench · Human evaluation interface <span>判断依据：视频中的可见证据</span></footer>
+  <script src="/app.js" defer></script>
+</body>
+</html>

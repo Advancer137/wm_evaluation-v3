@@ -1,0 +1,1271 @@
+source	zh_reference
+The autonomous vehicle approaches a yellow traffic light on a bridge and comes to a complete stop.	自动驾驶车辆驶近桥上一处亮着黄灯的交通信号灯，并完全停下。
+Maintain current left lane while approaching and stopping.	在驶近和停车过程中保持在当前左侧车道。
+Switch to adjacent right lane before stopping.	停车前变换到相邻的右侧车道。
+The autonomous vehicle approaches a yellow traffic light on a bridge with construction barriers.	自动驾驶车辆驶近桥上一处亮着黄灯的交通信号灯，桥上设有施工护栏。
+Vehicle decelerates smoothly to a complete stop before the intersection.	车辆平稳减速，在交叉路口前完全停下。
+Vehicle maintains speed to proceed through the intersection.	车辆保持速度，继续通过交叉路口。
+The car maneuvers through a construction zone, changing lanes to the left to avoid the excavator.	汽车穿行施工区域，向左变道以避开挖掘机。
+Initiate the lane change well before reaching the excavator.	在距离挖掘机还较远时开始变道。
+Initiate the lane change just before the barriers block the path.	在护栏即将挡住行驶路径时才开始变道。
+The car maneuvers through the construction zone, changing lanes to the left while avoiding obstacles.	汽车穿行施工区域，向左变道并避开障碍物。
+Maintain a wide lateral safety margin from obstacles.	与障碍物保持较大的横向安全距离。
+Maintain a tight lateral clearance margin from obstacles.	与障碍物保持较小的横向间距。
+The autonomous vehicle approaches a speed bump on a suburban street and decelerates to cross it safely without stopping.	自动驾驶车辆驶近郊区街道上的减速带，并减速安全通过，全程不停下。
+The vehicle slows down early and smoothly well before the bump.	车辆在距离减速带还较远时就提前平稳减速。
+The vehicle maintains speed until the last moment before braking.	车辆保持速度，直到最后一刻才制动。
+The autonomous vehicle approaches a speed bump on a quiet suburban street.	自动驾驶车辆驶近安静郊区街道上的减速带。
+Maintains steady speed until immediately before the bump.	保持稳定速度，直到紧邻减速带前。
+Decelerates early and significantly before the bump.	在减速带前提前明显减速。
+The blue car executes a slight left turn maneuver while avoiding the red truck, white car, and gray SUV.	蓝色汽车执行小幅左转，同时避开红色卡车、白色汽车和灰色 SUV。
+Execute the left turn directly from the current center lane.	直接从当前中间车道执行左转。
+Change to the left lane first, then execute the turn.	先变换到左侧车道，再执行转弯。
+The blue car executes a slight left turn while maintaining a safe distance from the gray car in the left lane.	蓝色汽车执行小幅左转，同时与左侧车道的灰色汽车保持安全距离。
+Maintain a wide lateral safety buffer from the gray car.	与灰色汽车保持较大的横向安全距离。
+Accept a tighter lateral gap to the gray car.	接受与灰色汽车之间较小的横向间距。
+The dark-colored car decelerates as it approaches the crosswalk at night.	深色汽车在夜间驶近人行横道时减速。
+Maintain current lane while decelerating.	减速时保持在当前车道。
+Switch to adjacent lane while decelerating.	减速时变换到相邻车道。
+The dark-colored car approaches the crosswalk at night and decelerates while remaining in its lane.	深色汽车在夜间驶近人行横道，并保持在本车道内减速。
+Significant early deceleration ensuring a large safety margin.	提前明显减速，以确保较大的安全余量。
+Minimal deceleration maintaining a tight safety margin.	仅轻微减速，保持较小的安全余量。
+The vehicle proceeds forward on the road, maintaining safe speed and staying within lane boundaries.	车辆沿道路向前行驶，保持安全速度且不越出车道边界。
+Execute a lane change maneuver to the right lane.	执行向右侧车道的变道动作。
+Maintain the current lane and continue straight.	保持在当前车道并继续直行。
+The vehicle executes a lane change maneuver to the right lane.	车辆执行向右侧车道的变道动作。
+Maintain a wide safety buffer from the right curb and building.	与右侧路缘和建筑物保持较大的安全距离。
+Accept a tight safety margin near the right curb and building.	接受靠近右侧路缘和建筑物时较小的安全余量。
+An autonomous vehicle approaches a crosswalk with construction cones while a pedestrian prepares to cross.	自动驾驶车辆驶近设有施工锥桶的人行横道，一名行人正准备过街。
+Vehicle stops at the line to let the pedestrian cross first.	车辆在线前停下，让行人先通过。
+Vehicle maintains speed to pass before the pedestrian enters the lane.	车辆保持速度，在行人进入车道前通过。
+An autonomous vehicle approaches a crosswalk where a pedestrian is crossing near stationary construction cones.	自动驾驶车辆驶近人行横道，一名行人正在固定的施工锥桶附近过街。
+Vehicle maintains large lateral distance and reduces speed significantly.	车辆保持较大的横向距离，并明显减速。
+Vehicle maintains minimal lateral distance and normal speed.	车辆保持很小的横向距离，并以正常速度行驶。
+The autonomous vehicle executes a safe maneuver to come to a complete stop within road boundaries.	自动驾驶车辆安全地执行停车动作，在道路边界内完全停下。
+Stop immediately in current roadside position without entering the driving lane.	立即在当前路边位置停下，不进入行车道。
+Merge into the driving lane and execute the stop maneuver within the lane.	并入行车道，并在车道内执行停车动作。
+The autonomous vehicle remains on the roadside and eventually comes to a complete stop without entering the main travel lane.	自动驾驶车辆保持在路边，最终完全停下，不进入主行车道。
+The vehicle stops immediately at the current position.	车辆立即在当前位置停下。
+The vehicle moves forward slightly before stopping.	车辆略微向前移动后停下。
+The autonomous vehicle accelerates along the dimly lit residential street at night while remaining within drivable road boundaries and avoiding parked cars.	自动驾驶车辆在夜间沿昏暗的住宅街道加速，同时保持在可行驶道路边界内，并避开停放的车辆。
+Maintains current left-biased position hugging the parked cars.	保持当前偏左的位置，紧靠停放的车辆行驶。
+Shifts laterally to the right maximizing clearance from parked cars.	向右横向移动，尽可能增大与停放车辆的间距。
+The autonomous vehicle accelerates forward along the dimly lit street at night.	自动驾驶车辆在夜间沿昏暗街道向前加速。
+Accelerate briskly with tight safety margins.	迅速加速，保持较小的安全余量。
+Accelerate gradually with large safety margins.	逐渐加速，保持较大的安全余量。
+The vehicle yields to the pedestrian crossing the street and eventually comes to a complete stop.	车辆礼让正在过街的行人，并最终完全停下。
+The vehicle stops immediately at its current position.	车辆立即在其当前位置停下。
+The vehicle creeps forward to align with the crosswalk line.	车辆缓慢向前挪动，与人行横道线对齐。
+The vehicle decelerates to yield to pedestrians crossing at a marked crosswalk.	车辆减速，礼让正在有标线的人行横道上过街的行人。
+Wait until pedestrian fully clears crosswalk before moving.	等行人完全离开人行横道后再移动。
+Resume motion as soon as pedestrian leaves immediate lane.	行人一离开车辆当前所在车道就恢复行驶。
+The autonomous vehicle straddles the lane to overtake a row of parked cars while remaining within the drivable area bounded by concrete barriers.	自动驾驶车辆跨着车道绕行超越一排停放的车辆，同时保持在混凝土护栏限定的可行驶区域内。
+Maintain minimal lateral distance to parked cars during overtaking.	绕行超越时，与停放的车辆保持很小的横向距离。
+Maintain significantly wider lateral distance to parked cars during overtaking.	绕行超越时，与停放的车辆保持明显更大的横向距离。
+A car approaches a zebra crossing at night where a pedestrian is waiting to cross from the left.	一辆汽车在夜间驶近斑马线，一名行人正等在左侧准备过街。
+Car decelerates and stops before pedestrian enters the road.	汽车在行人进入道路前减速停下。
+Car maintains speed until pedestrian steps onto the road.	汽车保持速度，直到行人踏上道路。
+The vehicle approaches a zebra crossing at night and stops to yield to a pedestrian crossing from the left.	车辆在夜间驶近斑马线，停下礼让从左侧过街的行人。
+Initiate braking early to maintain a large safety buffer before the crossing.	提前开始制动，在人行横道前留出较大的安全距离。
+Delay braking slightly to stop closer to the crossing edge.	略微推迟制动，在更靠近人行横道边缘的位置停下。
+The autonomous vehicle changes lanes to the left.	自动驾驶车辆向左变道。
+Execute a direct and assertive lane change.	直接、果断地完成变道。
+Execute a cautious and gradual lane change.	谨慎、渐进地完成变道。
+The autonomous vehicle changes lanes to the left on the current road segment.	自动驾驶车辆在当前路段向左变道。
+Execute lane change with slow lateral velocity and large safety margin.	以较低横向速度变道，保持较大的安全余量。
+Execute lane change with fast lateral velocity to minimize transition time.	以较高横向速度变道，尽量缩短变道时间。
+An autonomous vehicle approaches a green intersection with a crossing red SUV.	自动驾驶车辆驶近一处亮绿灯的交叉路口，一辆红色 SUV 正横向通过。
+Wait for the intersection to be completely clear before entering.	等交叉路口完全空出后再驶入。
+Enter the intersection immediately while the crossing vehicle is still passing.	在横向车辆仍在通过时立即驶入交叉路口。
+The car stops at the intersection to yield to pedestrians crossing the street.	汽车在交叉路口停下，礼让正在过街的行人。
+Stop significantly behind the crosswalk line with a large safety buffer.	停在人行横道线后方较远处，留出较大的安全距离。
+Stop precisely at the limit line with minimal clearance.	准确停在停止线处，间距尽可能小。
+The vehicle waits at the intersection for pedestrians crossing the street before proceeding.	车辆在交叉路口等待行人过街，然后继续行驶。
+Wait until all pedestrians have completely cleared the intersection.	等所有行人完全离开交叉路口。
+Proceed as soon as the immediate path directly in front is clear.	正前方的直接行驶路径一空出就继续行驶。
+The vehicle accelerates along the winding road while remaining within lane boundaries.	车辆沿蜿蜒道路加速，同时保持在车道边界内。
+Strictly maintain current lane position following road curvature.	严格保持当前车道位置，沿道路弯曲方向行驶。
+Utilize full lane width to straighten trajectory through curve.	利用整个车道宽度，使过弯轨迹更接近直线。
+The vehicle navigates a right-hand curve on a winding road while following a truck ahead.	车辆在蜿蜒道路上通过右弯，跟随前方卡车。
+Maintain moderate speed or decelerate slightly for a wide safety margin.	保持适中速度或略微减速，以留出较大的安全余量。
+Aggressively accelerate through the curve to prioritize momentum and speed.	在弯道中大幅加速，优先保持动量和速度。
+The car executes a significant left turn on the wide road, remaining within paved boundaries and avoiding the booth.	汽车在宽阔道路上大幅左转，保持在铺装路面边界内并避开岗亭。
+Execute the turn with a tight radius, hugging the left curb immediately.	以较小半径转弯，立即贴近左侧路缘。
+Execute the turn with a wide radius, sweeping through the intersection center.	以较大半径转弯，绕经交叉路口中央。
+The vehicle executes a significant left turn on a wide road, passing a booth on the left while avoiding collisions and staying on the paved surface.	车辆在宽阔道路上大幅左转，经过左侧的岗亭，同时避免碰撞并保持在铺装路面上。
+Execute turn with significant speed reduction and wide safety margin.	明显减速转弯，并保持较大的安全余量。
+Execute turn with moderate deceleration and tighter trajectory.	适度减速转弯，采用更紧凑的轨迹。
+The autonomous vehicle yields to pedestrians at the crosswalk while waiting for them to clear the street.	自动驾驶车辆在人行横道处礼让行人，等待他们离开街道。
+Vehicle remains completely stationary behind the stop line.	车辆在停止线后保持完全静止。
+Vehicle slowly creeps forward to align with the boundary.	车辆缓慢向前挪动，与边界对齐。
+An autonomous vehicle is stationary at a crosswalk with pedestrians waiting on the curb.	自动驾驶车辆静止在人行横道处，行人正在路缘等候。
+Vehicle yields preemptively to pedestrians before they step onto the road.	车辆在行人踏上道路前主动提前礼让。
+Vehicle proceeds through intersection while monitoring stationary pedestrians.	车辆通过交叉路口，同时关注仍停在原地的行人。
+The autonomous vehicle decelerates and comes to a complete stop adjacent to the curb while remaining within road boundaries and avoiding the pedestrian.	自动驾驶车辆减速，在路缘旁完全停下，同时保持在道路边界内并避开行人。
+The vehicle maintains lane position and decelerates in a straight line.	车辆保持车道位置，沿直线减速。
+The vehicle steers right then executes a smooth leftward arc.	车辆先向右转向，再平滑地沿向左的弧线行驶。
+An autonomous vehicle approaches a curb with a pedestrian nearby on a tree-lined street.	自动驾驶车辆在一条林荫街道上驶近路缘，附近有一名行人。
+Vehicle decelerates early and stops completely at the curb.	车辆提前减速，在路缘处完全停下。
+Vehicle maintains speed and drives past the pedestrian.	车辆保持速度，驶过行人身旁。
+The autonomous vehicle decelerates and comes to a complete stop on the road near the construction barricades.	自动驾驶车辆减速，在施工路障附近的道路上完全停下。
+Maintains current lateral position, keeping a wide buffer from barricades.	保持当前横向位置，与路障留出较大间距。
+Shifts laterally left, reducing the gap to the barricades.	向左横向移动，缩小与路障的间距。
+The autonomous vehicle approaches a construction zone with orange barricades and eventually comes to a complete stop on the road.	自动驾驶车辆驶近设有橙色路障的施工区域，最终在道路上完全停下。
+Initiate deceleration immediately to stop well before the construction zone.	立即开始减速，在距离施工区域较远处停下。
+Maintain speed longer and stop closer to the construction zone.	更长时间保持速度，在更靠近施工区域的位置停下。
+The white van executes a lane change to the right on the narrow road.	白色厢式货车在狭窄道路上向右变道。
+Delay lane change to ensure large safety margin.	推迟变道，以确保较大的安全余量。
+Execute lane change immediately with tight safety margin.	立即变道，保持较小的安全余量。
+The autonomous vehicle executes a right turn at the urban intersection, yielding to pedestrians and entering the target lane.	自动驾驶车辆在城市交叉路口右转，礼让行人并进入目标车道。
+Execute a tight, direct arc minimizing distance and staying close to the curb.	采用紧凑、直接的弧线，尽量缩短距离并贴近路缘。
+Execute a wide, sweeping arc traversing more of the intersection before curving back.	采用宽大的弧线，先经过交叉路口更大范围，再转回。
+The autonomous vehicle approaches a busy urban intersection with crossing pedestrians and executes a slight right turn.	自动驾驶车辆驶近有行人过街的繁忙城市交叉路口，并执行小幅右转。
+Yield to pedestrians and wait for a clear path before turning.	礼让行人，等路径空出后再转弯。
+Proceed immediately through the gap in pedestrian traffic while turning.	转弯时立即穿过行人之间的空隙。
+The autonomous vehicle drives straight through the narrow passage between parked cars.	自动驾驶车辆直行穿过停放车辆之间的狭窄通道。
+Reduce speed significantly to maximize safety margins around parked cars.	明显降低速度，尽可能增大停放车辆周围的安全余量。
+Maintain nominal steady speed accepting tighter spatial margins.	保持正常稳定速度，接受较小的空间余量。
+The vehicle executes a left turn at the intersection.	车辆在交叉路口左转。
+Execute the left turn with a tight radius.	以较小半径执行左转。
+Execute the left turn with a wide radius.	以较大半径执行左转。
+The car executes a left turn at the intersection.	汽车在交叉路口左转。
+Execute turn with large safety margin and significant deceleration.	明显减速转弯，并留出较大的安全余量。
+Execute turn with tight safety margin and maintained momentum.	转弯时保持动量，并接受较小的安全余量。
+The autonomous vehicle yields right of way to a passing motorcycle at a crosswalk.	自动驾驶车辆在人行横道处让行一辆驶过的摩托车。
+Vehicle executes a complete static stop with zero velocity.	车辆完全停稳，速度为零。
+Vehicle executes a rolling yield maintaining slow non-zero velocity.	车辆以缓慢但非零的速度行进让行。
+The vehicle decelerates at the intersection while remaining on the drivable road surface and avoiding collisions.	车辆在交叉路口减速，同时保持在可行驶路面上并避免碰撞。
+Decelerate to yield and maintain current lane for straight travel.	减速让行，并保持当前车道以继续直行。
+Decelerate and shift right to prepare for a lane change and turn.	减速并向右移动，为变道和转弯做准备。
+The vehicle approaches the busy intersection with a green truck on the left and a black car ahead, adhering to the green light and lane constraints.	车辆驶近繁忙交叉路口，左侧有一辆绿色卡车，前方有一辆黑色汽车，同时遵守绿灯信号和车道限制。
+The vehicle decelerates significantly to maintain a large safety margin.	车辆明显减速，以保持较大的安全余量。
+The vehicle decelerates minimally to maintain traffic flow.	车辆仅轻微减速，以保持车流通畅。
+The silver car waits at the red light at the intersection, maintaining safe distance and obeying traffic laws.	银色汽车在交叉路口等红灯，保持安全距离并遵守交通规则。
+Maintain current lane to proceed straight through the intersection.	保持在当前车道，准备直行通过交叉路口。
+Shift to adjacent left lane to prepare for a left turn.	变换到相邻左侧车道，为左转做准备。
+The silver car waits at the intersection stop line and proceeds to navigate through the intersection while avoiding the crossing white sedan.	银色汽车在交叉路口停止线处等待，随后通过路口，同时避开横向驶来的白色轿车。
+Wait for a wide, clearly established gap in cross-traffic before proceeding.	等横向车流中出现宽裕、明确的空隙后再行驶。
+Proceed as soon as the immediate path is clear, accepting a tight gap.	直接行驶路径一空出就前进，接受较小的车流间隙。
+The autonomous vehicle navigates the intersection safely while maintaining distance from surrounding traffic.	自动驾驶车辆安全通过交叉路口，同时与周围车辆保持距离。
+Maintain current lane position behind the bus.	保持当前车道位置，跟在公交车后面。
+Change lane to the left to follow the truck.	向左变道，跟随卡车。
+The autonomous vehicle navigates the intersection while maintaining a safe following distance behind the bus.	自动驾驶车辆通过交叉路口，同时与前方公交车保持安全跟车距离。
+Maintain a significantly large gap behind the bus for maximum safety.	与前方公交车保持明显较大的距离，以尽可能确保安全。
+Maintain a tighter standard following distance to balance safety and efficiency.	保持较小的常规跟车距离，以兼顾安全与效率。
+The autonomous vehicle waits at the intersection for a safe gap in cross-traffic to proceed.	自动驾驶车辆在交叉路口等待横向车流中出现安全空隙后前进。
+Wait for a large, completely clear traffic gap before accelerating.	等车流中出现较大且完全畅通的空隙后再加速。
+Accelerate immediately upon a minimal, tight traffic gap.	一出现很小、紧凑的车流空隙就立即加速。
+The autonomous vehicle waits at the intersection for a safe distance to proceed.	自动驾驶车辆在交叉路口等待，直到留出安全通行距离。
+Wait for a large, unambiguous gap with maximum safety margin.	等待较大、明确的空隙，保留最大的安全余量。
+Proceed through a narrowing gap with a tight safety margin.	通过正在缩小的空隙，接受较小的安全余量。
+The autonomous vehicle drives straight and comes to a complete stop on the residential street without colliding with parked cars.	自动驾驶车辆在住宅街道上直行并完全停下，不与停放的车辆碰撞。
+Stop in the center of the lane, maintaining equidistance from parked cars.	停在车道中央，与两侧停放车辆保持相等距离。
+Stop offset to the right, closer to the parked cars on the right side.	靠右偏移停车，更靠近右侧停放的车辆。
+The autonomous vehicle drives on a residential street and eventually comes to a complete stop within the drivable lane.	自动驾驶车辆在住宅街道上行驶，最终在可行驶车道内完全停下。
+The vehicle stops immediately to maximize safety margins.	车辆立即停下，以尽可能增大安全余量。
+The vehicle proceeds forward briefly before stopping.	车辆继续向前行驶一小段后停下。
+The autonomous vehicle accelerates in the left lane behind a grey SUV within a construction zone.	自动驾驶车辆在施工区域内的左侧车道加速，前方是一辆灰色 SUV。
+Accelerate gently to maintain a large safety margin.	轻缓加速，以保持较大的安全余量。
+Accelerate briskly to reduce the gap to the lead vehicle.	迅速加速，以缩小与前车的距离。
+The autonomous vehicle navigates around the pedestrian and stationary objects at the intersection.	自动驾驶车辆在交叉路口绕开行人和静止物体。
+Maintain a large lateral safety buffer from the pedestrian and fence.	与行人和围栏保持较大的横向安全距离。
+Maintain a minimal lateral safety buffer to maximize path efficiency.	保持很小的横向安全距离，以尽可能提高路径效率。
+The autonomous vehicle maintains a steady speed while driving straight ahead on an empty multi-lane road under an overpass.	自动驾驶车辆在立交桥下的空旷多车道道路上，以稳定速度直行。
+The vehicle maintains a steady speed while driving in the left lane.	车辆在左侧车道保持稳定速度行驶。
+The vehicle maintains a steady speed while driving in the right lane.	车辆在右侧车道保持稳定速度行驶。
+The ego-vehicle decelerates on a multi-lane urban road while avoiding collisions.	自车在城市多车道道路上减速，同时避免碰撞。
+Maintain current lane position while decelerating linearly.	沿直线减速时保持当前车道位置。
+Change lanes to the right while decelerating.	减速时向右变道。
+The vehicle approaches and passes under the pedestrian bridge while remaining in its lane.	车辆驶近并通过人行天桥下方，全程保持在本车道。
+Significantly decelerate to ensure a wide safety margin under the bridge.	明显减速，以确保通过桥下时有较大的安全余量。
+Maintain speed or decelerate slightly, accepting standard traffic flow risk.	保持速度或略微减速，接受正常交通流中的风险。
+The autonomous vehicle waits at the intersection for the obstructing silver car to pass before proceeding.	自动驾驶车辆在交叉路口等待挡路的银色汽车通过后再前进。
+Remain completely stationary in current lane until path clears.	保持在当前车道完全静止，直到路径空出。
+Slightly steer around obstruction to reposition while waiting.	等待时略微转向绕开障碍，调整车辆位置。
+The autonomous vehicle waits at a green light for a silver car crossing from the right to clear the intersection path.	自动驾驶车辆在绿灯处等待从右侧横穿的银色汽车离开交叉路口的行驶路径。
+Wait until the silver car has completely cleared the intersection before proceeding.	等银色汽车完全离开交叉路口后再前进。
+Proceed as soon as the silver car begins to clear the immediate path.	银色汽车一开始让出车辆的直接行驶路径就前进。
+The autonomous vehicle approaches a construction zone on a curved road and navigates around the barrier to continue forward.	自动驾驶车辆驶近弯曲道路上的施工区域，绕开护栏继续向前。
+Vehicle stays fully within the left lane, avoiding the center line.	车辆完全保持在左侧车道内，避开中心线。
+Vehicle straddles the center line to maintain a path parallel to the original lane center.	车辆跨着中心线行驶，使路径与原车道中心线平行。
+The autonomous vehicle straddles the lane line to navigate around the construction zone on the curved road.	自动驾驶车辆跨着车道线绕过弯曲道路上的施工区域。
+Maintain a wide lateral safety margin from the construction barrels.	与施工防撞桶保持较大的横向安全距离。
+Take a tight path with minimal lateral distance to the barrels.	采用紧凑路径，与防撞桶保持很小的横向距离。
+The vehicle decelerates and stops to yield to the pedestrian crossing at the marked crosswalk.	车辆减速停下，礼让正在有标线的人行横道上过街的行人。
+Stop significantly before the crosswalk line to maximize safety buffer.	停在人行横道线前较远处，尽可能增大安全距离。
+Stop immediately adjacent to the crosswalk line to minimize distance.	紧挨人行横道线停下，尽量缩短距离。
+The vehicle approaches a crosswalk where a pedestrian is crossing and slows down to yield.	车辆驶近有行人正在过街的人行横道，并减速让行。
+Vehicle stops early with a large safety buffer before the crosswalk.	车辆提前停下，在人行横道前留出较大的安全距离。
+Vehicle stops at the line with a minimal safety buffer.	车辆在线前停下，留出很小的安全距离。
+The vehicle maintains a steady speed approaching the intersection with a parked ambulance on the right.	车辆保持稳定速度驶近交叉路口，右侧停着一辆救护车。
+Maintain position in the current lane while passing the ambulance.	经过救护车时保持当前车道位置。
+Shift to the left lane to maximize distance from the ambulance.	变换到左侧车道，尽可能远离救护车。
+The vehicle approaches an intersection with a parked ambulance on the right.	车辆驶近交叉路口，右侧停着一辆救护车。
+Significantly reduce speed and maintain wide lateral distance from ambulance.	明显降低速度，并与救护车保持较大的横向距离。
+Maintain steady speed with minimal deceleration and tighter safety margin.	保持稳定速度，仅轻微减速，接受较小的安全余量。
+The blue vehicle decelerates and stops at the crosswalk under a red light.	蓝色车辆在红灯下减速，停在人行横道处。
+Maintain current left lane position while stopping.	停车时保持当前左侧车道位置。
+Change to adjacent right lane before stopping.	停车前变换到相邻右侧车道。
+The blue vehicle decelerates and stops at the red light before the crosswalk.	蓝色车辆在红灯处减速，停在人行横道前。
+Stop well behind the crosswalk line with a large safety buffer.	停在人行横道线后方较远处，留出较大的安全距离。
+Creep forward to stop immediately at the edge of the crosswalk line.	缓慢前移，紧挨人行横道线的边缘停下。
+The autonomous vehicle executes a right turn at the rainy urban intersection, avoiding the silver car on the left and staying within legal road boundaries.	自动驾驶车辆在雨中的城市交叉路口右转，避开左侧银色汽车，并保持在合法道路边界内。
+Execute a tight right turn with a narrow radius.	以较小半径紧凑右转。
+Execute a wide right turn with a sweeping radius.	以较大半径绕行右转。
+The autonomous vehicle executes a slight right turn at a rainy urban intersection with wet streets, navigating around an approaching silver car on the left and a black car on the right while avoiding collisions.	自动驾驶车辆在路面湿滑的雨天城市交叉路口小幅右转，绕开左侧驶近的银色汽车和右侧黑色汽车，同时避免碰撞。
+Yield significantly to approaching traffic and maintain a large safety margin before turning.	充分让行驶近的车辆，保留较大的安全余量后再转弯。
+Maintain steady speed and execute turn with a tighter safety margin relative to traffic.	保持稳定速度转弯，与其他车辆之间保留较小的安全余量。
+The autonomous vehicle waits at a rainy intersection for a pedestrian with an umbrella to cross the street.	自动驾驶车辆在雨中的交叉路口等待一名撑伞行人过街。
+Wait until pedestrian fully clears lane with significant buffer.	等行人完全离开车道，并留出明显的间隔。
+Move as soon as pedestrian clears immediate front bumper.	行人一离开前保险杠正前方就移动车辆。
+The autonomous vehicle yields to a pedestrian crossing the street and proceeds only after ensuring no collision occurs.	自动驾驶车辆礼让正在过街的行人，确保不会发生碰撞后才继续行驶。
+Wait until the pedestrian fully clears the entire roadway.	等行人完全离开整条道路。
+Proceed once the pedestrian clears the vehicle's immediate front path.	行人离开车辆正前方的直接行驶路径后就前进。
+The red car yields at the intersection, waiting for the silver car to clear the path before proceeding.	红色汽车在交叉路口让行，等银色汽车让出路径后再前进。
+Wait for silver car to fully exit intersection before moving.	等银色汽车完全驶出交叉路口后再移动。
+Accelerate immediately once direct path is clear of silver car.	银色汽车一离开直接行驶路径就立即加速。
+The red car yields at the intersection, waiting for the silver car to pass before proceeding.	红色汽车在交叉路口让行，等银色汽车通过后再前进。
+Wait for a large safety gap before proceeding.	等出现较大的安全间隙后再前进。
+Proceed with a tight safety gap immediately.	利用较小的安全间隙立即前进。
+The autonomous vehicle accelerates around the curve while remaining within lane boundaries.	自动驾驶车辆沿弯道加速，同时保持在车道边界内。
+The vehicle hugs the inside edge of the curve.	车辆紧贴弯道内侧边缘行驶。
+The vehicle cuts the corner using the full lane width.	车辆利用整个车道宽度切弯。
+The autonomous vehicle navigates the curve while remaining within lane markings and avoiding collisions.	自动驾驶车辆通过弯道，同时保持在车道标线内并避免碰撞。
+Maintain steady or reduced speed to maximize safety margin.	保持速度或减速，以尽可能增大安全余量。
+Aggressively accelerate to maximize speed despite tighter safety margin.	大幅加速以尽可能提高速度，即使安全余量较小。
+The autonomous vehicle navigates around pedestrians at a crosswalk while maintaining forward progress.	自动驾驶车辆在人行横道处绕开行人，同时继续向前行驶。
+The vehicle steers left to pass the pedestrians on their left side.	车辆向左转向，从行人的左侧通过。
+The vehicle steers right to pass the pedestrians on their right side.	车辆向右转向，从行人的右侧通过。
+The autonomous vehicle approaches pedestrians at a crosswalk and navigates around them without collision.	自动驾驶车辆驶近人行横道处的行人，并绕过他们，不发生碰撞。
+Vehicle significantly reduces speed and maintains wide lateral clearance.	车辆明显减速，并保持较大的横向间距。
+Vehicle maintains steady speed with minimal lateral clearance.	车辆保持稳定速度，横向间距很小。
+The car maintains a steady speed while driving within the current lane.	汽车保持稳定速度，在当前车道内行驶。
+The car drives precisely in the center of the lane.	汽车准确地沿车道中央行驶。
+The car shifts trajectory slightly to the left within the lane.	汽车在车道内将行驶轨迹略微向左偏移。
+The vehicle drives forward in its lane without stopping or turning.	车辆在本车道内向前行驶，不停车、不转弯。
+Vehicle reduces speed to increase safety margin.	车辆降低速度，以增加安全余量。
+Vehicle maintains standard speed with tighter safety margin.	车辆保持正常速度，接受较小的安全余量。
+A person massages another person's elevated foot in a calm indoor setting.	在安静的室内，一人给另一人抬起的脚做按摩。
+Low force, slow tempo, gentle flow.	力度轻、节奏慢、动作柔和连贯。
+High force, rapid tempo, vigorous flow.	力度大、节奏快、动作有力连贯。
+Apply deep, firm pressure with focused kneading manipulation.	施加深层、较大的压力，集中揉捏。
+Apply light, gentle stroking with broad surface contact.	以较大的接触面积轻柔抚摩。
+The couple dances on a crowded dance floor.	这对舞伴在拥挤的舞池中跳舞。
+High energy, rapid tempo, large amplitude, vigorous motion.	活力高、节奏快、幅度大、动作有力。
+Low energy, slow tempo, small amplitude, restrained motion.	活力低、节奏慢、幅度小、动作克制。
+The couple dances on a crowded floor with consistent lighting and active background.	这对舞伴在拥挤的舞池中跳舞，光线保持一致，背景人群持续活动。
+Dance with close body contact and highly synchronized fluid movements.	身体紧密接触地跳舞，动作流畅且高度同步。
+Dance with wide physical distance and precise but rigid steps.	保持较大的身体距离跳舞，步伐准确但僵硬。
+The hands perform a percussive drumming action on the wooden table surface.	双手在木桌表面做出打鼓般的敲击动作。
+High energy, rapid tempo, forceful impact.	活力高、节奏快、敲击有力。
+Low energy, slow tempo, gentle touch.	活力低、节奏慢、触碰轻柔。
+The child eats cake from the plate while seated at the table.	孩子坐在桌旁吃盘子里的蛋糕。
+The child eats with high energy, rapid speed, and large bites.	孩子精力充沛、快速地大口吃东西。
+The child eats slowly, deliberately, with small careful bites.	孩子缓慢、从容地小心小口吃蛋糕。
+The dancers move rhythmically across the blue floor.	舞者们在蓝色地板上有节奏地移动。
+High energy, fast pace, powerful movements.	活力高、速度快、动作有力。
+Low energy, slow pace, gentle movements.	活力低、速度慢、动作轻柔。
+Two dancers move rhythmically across the blue floor.	两名舞者在蓝色地板上有节奏地移动。
+Dancers move in perfect unison with tight coordination.	舞者们配合紧密，动作完全同步。
+Dancers move with independent timing and distinct styles.	舞者们按各自的时机行动，风格各不相同。
+The baby interacts with the watermelon slice held by the adult hand.	婴儿与成人手中拿着的西瓜片互动。
+Baby moves mouth slowly and delicately to taste watermelon.	婴儿缓慢、轻柔地动嘴品尝西瓜。
+Baby moves mouth rapidly and forcefully to bite watermelon.	婴儿快速、用力地动嘴咬西瓜。
+The baby sits on the cushion while an adult hand holds a watermelon slice near the mouth for feeding.	婴儿坐在垫子上，成人的手把西瓜片拿到婴儿嘴边喂食。
+Baby actively opens mouth wide and leans forward to eagerly bite the watermelon.	婴儿主动张大嘴，向前倾身，急切地咬西瓜。
+Baby remains still with mouth closed, allowing adult to gently place fruit on lips.	婴儿保持不动，嘴巴闭着，让成人轻轻把水果放在嘴唇上。
+The couple walks down the aisle holding hands.	这对伴侣牵着手沿过道走。
+Slow, deliberate, and ceremonial walking pace.	步伐缓慢、从容，具有仪式感。
+Fast, energetic, and hurried walking pace.	步伐快速、充满活力且匆忙。
+Frequent eye contact, broad smiles, and deep shared joy.	频繁对视，笑容灿烂，共同流露出深切的喜悦。
+Formal posture, looking straight ahead, minimal smiling.	姿态正式，目视前方，很少微笑。
+The athlete on the runway executes a valid forward javelin throw.	助跑道上的运动员完成一次有效的向前标枪投掷。
+High intensity, explosive speed, and maximum force.	强度高、速度具有爆发性、力量最大。
+Low intensity, controlled speed, and moderate force.	强度低、速度受控、力量适中。
+The dancer performs hip-hop moves under an overpass.	舞者在立交桥下表演街舞动作。
+High intensity, fast tempo, large amplitude, explosive force.	强度高、节奏快、幅度大、力量具有爆发性。
+Low intensity, slow tempo, small amplitude, controlled fluidity.	强度低、节奏慢、幅度小、动作流畅且受控。
+The dancer performs energetic hip-hop moves under the overpass while a man stands nearby.	舞者在立交桥下表演充满活力的街舞动作，一名男子站在附近。
+Dancer actively acknowledges and interacts with the standing man.	舞者主动回应站在旁边的男子，并与他互动。
+Dancer ignores the standing man and focuses entirely on performance.	舞者不理会站在旁边的男子，全神贯注于表演。
+The athlete in the yellow jersey throws the discus across the field from inside the protective cage.	身穿黄色运动衫的运动员从防护笼内将铁饼掷向场地。
+High intensity, rapid rotation, and explosive force.	强度高、旋转快、力量具有爆发性。
+Low intensity, slow rotation, and controlled force.	强度低、旋转慢、力量受控。
+The woman places a baking tray into the oven.	女子将烤盘放入烤箱。
+Slow, smooth, and controlled motion.	动作缓慢、平稳且受控。
+Rapid, energetic, and abrupt motion.	动作快速、充满活力且突然。
+The woman places the baking tray into the oven while the other woman remains at the counter.	女子将烤盘放入烤箱，另一名女子仍在操作台旁。
+She turns to smile and verbally acknowledge the other woman.	她转身微笑，并用言语回应另一名女子。
+She focuses fully on the task, ignoring the other woman.	她完全专注于手头任务，不理会另一名女子。
+The scoop releases pink batter into the cupcake liner.	勺子将粉色面糊放入纸杯蛋糕纸托。
+Batter flows slowly and softly into the liner.	面糊缓慢、轻柔地流入纸托。
+Batter drops rapidly and forcefully into the liner.	面糊快速、有力地落入纸托。
+The man in red shorts jumps forward on the sandy beach.	穿红色短裤的男子在沙滩上向前跳跃。
+High intensity, high amplitude, energetic forward jump.	高强度、大幅度、充满活力地向前跳。
+Low intensity, low amplitude, gentle forward hop.	低强度、小幅度、轻轻地向前跃起。
+The baby seated in the car seat raises its right arm.	坐在儿童汽车安全座椅里的婴儿抬起右臂。
+Slow, smooth, low-energy arm raising motion.	抬臂动作缓慢、平稳，活力较低。
+Fast, jerky, high-energy arm raising motion.	抬臂动作快速、不连贯，活力较高。
+The person sharpens a tool against the spinning grinding wheel.	操作者把工具抵在旋转的砂轮上磨削。
+High force, rapid, and jerky motion.	力度大、速度快、动作不连贯。
+Low force, slow, and smooth motion.	力度轻、速度慢、动作平稳。
+Two assistants hold pads on a seated man's head as he performs a head-turning exercise.	一名坐着的男子做转头练习，两名助手用垫子抵住他的头部。
+Head turns slowly with gentle, low-force resistance.	头部缓慢转动，受到轻柔、较小的阻力。
+Head turns rapidly with vigorous, high-force resistance.	头部快速转动，受到强劲、较大的阻力。
+Two assistants hold pads on either side of a seated man's head as he attempts to turn.	一名坐着的男子试图转头，两名助手用垫子抵住他的头部两侧。
+Assistants hold pads firmly to limit head movement.	助手牢牢抵住垫子，限制头部移动。
+Assistants hold pads lightly to allow free movement.	助手轻轻抵住垫子，允许头部自由移动。
+The person brings their right hand to touch their stationary left hand.	操作者移动右手，去触碰保持不动的左手。
+Slow, gentle approach with minimal force.	缓慢、轻柔地靠近，力度很小。
+Rapid, energetic approach with high force.	快速、有活力地靠近，力度较大。
+The worker operates the press brake to bend the metal sheet.	工人操作折弯机折弯金属板。
+The press brake descends rapidly with high force.	折弯机快速下降，施加较大力量。
+The press brake descends slowly with controlled pressure.	折弯机缓慢下降，压力受控。
+Children seated on a sofa reach for and eat chips from open bags on a table.	孩子们坐在沙发上，从桌上打开的袋子里拿薯片吃。
+Children reach and eat chips with rapid, high-energy movements.	孩子们以快速、充满活力的动作拿取并吃薯片。
+Children reach and eat chips with slow, deliberate movements.	孩子们以缓慢、从容的动作拿取并吃薯片。
+Children remain seated on the sofa and reach for chips from the bags on the table to eat.	孩子们保持坐在沙发上，伸手从桌上的袋子里拿薯片吃。
+Children offer chips to each other and engage in shared laughter.	孩子们互相递薯片，一起欢笑。
+Children eat quietly in isolation without interacting with peers.	孩子们各自安静地吃，不与同伴互动。
+The hand applies red polish to the white thumbnail using the brush.	手用刷子将红色指甲油涂在白色拇指甲上。
+Slow, gentle, and precise brush strokes with minimal force.	笔触缓慢、轻柔、精准，用力很小。
+Fast, energetic, and fluid brush strokes with higher intensity.	笔触快速、有活力且流畅，强度较高。
+The hand uses a metal scraper to remove thick sludge from the container.	手用金属刮刀从容器中刮除浓稠污泥。
+High force, rapid, aggressive scraping motion.	以较大力度快速、猛烈地刮除。
+Low force, slow, gentle scraping motion.	以较小力度缓慢、轻柔地刮除。
+The person opens the grill lid to check the food inside.	操作者打开烤架盖子，查看里面的食物。
+Lifts the grill lid rapidly and forcefully.	快速、用力地掀起烤架盖子。
+Lifts the grill lid slowly and cautiously.	缓慢、谨慎地掀起烤架盖子。
+The child performs a rhythmic percussive tapping motion on the wooden table surface.	孩子在木桌表面做出有节奏的敲击动作。
+High intensity, rapid speed, high frequency strikes.	高强度、快速、高频率地敲击。
+Low intensity, slow speed, low frequency strikes.	低强度、缓慢、低频率地敲击。
+The person walks the dog on a wet, rainy street lined with bushes.	一人在下雨、潮湿且沿路有灌木的街道上遛狗。
+Steady, leisurely, and smooth walking pace.	步伐稳定、悠闲、平稳。
+Brisk, hurried, and energetic walking pace.	步伐轻快、匆忙、充满活力。
+The child on the right sits at the table and eats the carrot they are holding.	右侧的孩子坐在桌旁，吃手里拿着的胡萝卜。
+The child bites and chews the carrot rapidly and forcefully.	孩子快速、用力地咬和咀嚼胡萝卜。
+The child bites and chews the carrot slowly and gently.	孩子缓慢、轻柔地咬和咀嚼胡萝卜。
+Three children sit at a wooden table holding carrots and eat them.	三个孩子坐在木桌旁，拿着胡萝卜吃。
+Children look at each other, share reactions, and coordinate eating.	孩子们互相看着，交流反应，并协调着一起吃。
+Children eat independently, ignoring one another and focusing on own carrots.	孩子们各自吃，彼此不理会，只关注自己的胡萝卜。
+The person releases the fishing line, causing the lure to enter the pond water.	操作者放出鱼线，使鱼饵进入池塘水中。
+Lure enters water with high velocity and forceful impact.	鱼饵以较高速度入水，冲击有力。
+Lure enters water with low velocity and gentle entry.	鱼饵以较低速度轻柔入水。
+The person operates the floor buffer to polish the green surface.	操作者使用地板抛光机抛光绿色表面。
+High intensity, rapid movement, and brisk coverage.	操作强度高、移动快、迅速扫过表面。
+Low intensity, slow movement, and careful coverage.	操作强度低、移动慢、细致扫过表面。
+The person transfers the egg yolk from the white measuring cup into the pot of boiling water.	操作者将蛋黄从白色量杯转移到一锅沸水中。
+Slow, gentle motion with steady, laminar flow.	动作缓慢、轻柔，流动稳定且呈层流。
+Rapid, abrupt motion with forceful, turbulent flow.	动作快速、突然，流动猛烈且呈湍流。
+The child dances while seated in the car seat.	孩子坐在儿童汽车安全座椅里跳舞。
+High energy, fast-paced, large amplitude movements.	活力高、节奏快、动作幅度大。
+Low energy, slow-paced, small amplitude movements.	活力低、节奏慢、动作幅度小。
+The man continues shearing the sheep in the stone enclosure.	男子继续在石砌围栏内给羊剪毛。
+Shearing with rapid, forceful, high-energy movements.	以快速、有力、充满活力的动作剪毛。
+Shearing with slow, deliberate, gentle movements.	以缓慢、从容、轻柔的动作剪毛。
+The man continues shearing the sheep in the stone-walled enclosure while other sheep remain nearby.	男子继续在石墙围栏内给羊剪毛，其他羊待在附近。
+The man handles the sheep gently with minimal physical restraint.	男子轻柔地对待羊，对其身体的约束很小。
+The man handles the sheep firmly with high physical restraint.	男子牢牢控制羊，对其身体施加较强约束。
+The man uses a table saw to cut a wooden board.	男子使用台锯切割木板。
+Push the board slowly with controlled, low-force motion.	以缓慢、受控、较小力度的动作推送木板。
+Push the board quickly with forceful, high-intensity motion.	以快速、有力、高强度的动作推送木板。
+The athlete launches a discus into the air from inside the throwing cage.	运动员从投掷笼内将铁饼掷向空中。
+Low intensity, slow rotation, and gentle release.	强度低、旋转慢、轻柔出手。
+The camel moves forward carrying the children within the arena.	骆驼载着孩子们在场内向前移动。
+Slow, steady, gentle walking pace.	步伐缓慢、稳定、轻柔。
+Fast, energetic, bouncing pace.	步伐快速、充满活力且上下颠动。
+Four children remain seated on the moving camel in the indoor arena.	四个孩子始终坐在室内场地中行进的骆驼上。
+Children laugh loudly, point, and interact excitedly with each other.	孩子们大声欢笑、指指点点，并兴奋地互相交流。
+Children sit quietly, holding bars with calm, neutral expressions.	孩子们安静地坐着，握住扶杆，表情平静、中性。
+The person performs a high kick with the right leg.	操作者用右腿做高踢腿动作。
+High intensity, rapid acceleration, and maximum leg height.	强度高、加速快、腿抬至最高高度。
+Low intensity, slow acceleration, and reduced leg height.	强度低、加速慢、踢腿高度较低。
+A man refuels a red car at a gas station at night by inserting the nozzle into the fuel tank.	夜间，一名男子在加油站将油枪插入油箱，为红色汽车加油。
+The man moves the nozzle slowly, deliberately, and gently.	男子缓慢、从容、轻柔地移动油枪。
+The man moves the nozzle fast, hurried, and energetically.	男子快速、匆忙、有活力地移动油枪。
+The person in blue throws the yellow frisbee across the grassy lawn.	穿蓝衣的人将黄色飞盘掷过草坪。
+Throw with high force, speed, and distance.	投掷力度大、速度快、距离远。
+Throw with low force, speed, and distance.	投掷力度小、速度慢、距离近。
+The person in blue launches the yellow frisbee across the grassy lawn while others stand nearby.	穿蓝衣的人将黄色飞盘掷过草坪，其他人站在附近。
+Thrower faces group, makes eye contact, and aims frisbee at a specific person.	投掷者面向人群，与他们目光交流，并将飞盘瞄准特定的一人。
+Thrower ignores group, avoids eye contact, and aims frisbee into open space.	投掷者不理会人群，避开目光交流，并将飞盘瞄准空地。
+The woman adjusts the pink sling while securely holding the baby.	女子稳稳抱住婴儿，同时调整粉色背巾。
+Gentle, slow, and low-force movements.	动作轻柔、缓慢、力度小。
+Energetic, brisk, and higher-force movements.	动作有活力、轻快、力度较大。
+The woman stands against a white background, holding a baby in a pink sling, and adjusts the sling to secure the fit.	女子站在白色背景前，用粉色背巾抱着婴儿，并调整背巾使其贴合稳固。
+Maintain close physical contact and soft visual connection with the baby.	与婴儿保持紧密身体接触，以及柔和的目光交流。
+Focus gaze on the fabric and hands with minimal social interaction.	目光专注于布料和双手，尽量少进行社交互动。
+The athlete runs towards the blue padded mats and jumps onto them.	运动员跑向蓝色软垫，并跳到上面。
+Rapid acceleration and powerful, high-amplitude jump.	快速加速，然后有力地大幅跳跃。
+Slow acceleration and light, low-effort hop.	缓慢加速，然后轻巧、省力地小跳。
+The archer draws the bowstring and releases the arrow towards the target.	弓箭手拉开弓弦，将箭射向靶子。
+High intensity, rapid, and forceful draw and release motion.	以高强度、快速、有力的动作拉弓并放箭。
+Low intensity, slow, and deliberate draw and release motion.	以低强度、缓慢、从容的动作拉弓并放箭。
+The child spreads peanut butter from the jar onto a slice of bread.	孩子把罐子里的花生酱涂到一片面包上。
+Fast, vigorous, and jerky spreading movements.	涂抹动作快速、有力且不连贯。
+Slow, gentle, and smooth spreading movements.	涂抹动作缓慢、轻柔且平稳。
+A group of women eat and drink together in a room.	一群女子在房间里一起吃喝。
+Women move rapidly with high intensity and vigorous energy.	女子们动作快速、强度高、充满活力。
+Women move slowly with low intensity and relaxed energy.	女子们动作缓慢、强度低、状态放松。
+A group of women remain in the room consuming drinks together.	一群女子留在房间里，一起喝饮料。
+High intensity: energetic, loud, synchronized celebration with active gestures.	强度高：充满活力、大声且同步地庆祝，伴随积极的手势动作。
+Low intensity: relaxed, calm, passive consumption with minimal interaction.	强度低：放松、平静、被动地喝饮料，互动很少。
+The athlete runs down the runway, plants the pole, and vaults over the bar into the pit.	运动员沿助跑道奔跑，撑杆起跳，越过横杆后落入落地区。
+High velocity, powerful, aggressive, and rapid upward motion.	向上运动速度高、有力、猛烈且迅速。
+Moderate speed, smooth, fluid, and gentle ascent.	以适中速度平稳、流畅、轻缓地上升。
+The group performs synchronized dancing in a large indoor space while maintaining their formation.	群体在宽敞室内同步跳舞，同时保持队形。
+High intensity, fast-paced movements with large amplitude.	强度高、节奏快、动作幅度大。
+Low intensity, slow-paced movements with small amplitude.	强度低、节奏慢、动作幅度小。
+The group performs synchronized dancing in the large indoor space.	群体在宽敞室内同步跳舞。
+Dancers move with tight synchronization and close physical proximity.	舞者们动作高度同步，身体间距较近。
+Dancers move with loose synchronization and individualistic spacing.	舞者们动作同步程度较低，各自保持不同的间距。
+Two people perform synchronized dancing in front of a brightly lit urban backdrop.	两人在灯光明亮的城市背景前同步跳舞。
+Dancers execute rapid, sharp, and forceful movements with high energy.	舞者们以高活力做出快速、利落、有力的动作。
+Dancers execute slow, fluid, and controlled movements with low intensity.	舞者们以低强度做出缓慢、流畅、受控的动作。
+Two people continue dancing in the urban plaza setting.	两人在城市广场场景中继续跳舞。
+Dancers mirror each other's movements precisely in strict unison.	舞者们精确镜像彼此的动作，严格同步。
+Dancers move independently with reactive interplay rather than unison.	舞者们各自行动，通过回应彼此来互动，而非同步动作。
+The athlete runs down the runway and uses a pole to vault over a high bar.	运动员沿助跑道奔跑，利用撑杆越过高处的横杆。
+Explosive, high-velocity sprint with maximum force application.	以最大力量进行具有爆发力的高速冲刺。
+Measured, controlled approach with moderate speed and steady acceleration.	以适中速度、稳定加速度，从容且受控地助跑。
+The child leans forward and lifts himself onto his knees while holding the plastic pouch.	孩子手持塑料袋，向前倾身，撑起身体转为跪姿。
+Gradual, low-energy, and smooth execution.	逐渐、低活力、平稳地完成动作。
+Rapid, high-energy, and forceful execution.	快速、高活力、有力地完成动作。
+A blue-gloved hand moves to make playful contact with the seated person's face.	一只戴蓝色手套的手移动，打趣地触碰坐着的人的脸。
+The hand moves rapidly with high force to tap the face.	手快速移动，用较大力量拍脸。
+The hand moves slowly with minimal force to stroke the face.	手缓慢移动，用很小的力量抚摸脸部。
+A person with a blue gloved hand approaches the seated person's face in a playful, casual manner.	一人以轻松、打趣的方式，用戴蓝色手套的手靠近坐着的人的脸。
+The gloved hand makes direct physical contact with the seated person's face.	戴手套的手直接接触坐着的人的脸部。
+The gloved hand hovers near the face without making physical contact.	戴手套的手停在脸部附近，不发生身体接触。
+The person trims the dog's fur with scissors while holding its chin.	操作者托着狗的下巴，用剪刀修剪它的毛。
+Slow, fluid, and continuous scissor motion with minimal force.	剪刀动作缓慢、流畅、连续，用力很小。
+Quick, sharp, and segmented scissor motion with higher energy.	剪刀动作快速、利落、分段进行，活力较高。
+The person trims the dog's fur with scissors while the dog sits calmly on the grooming table.	狗安静地坐在美容台上，操作者用剪刀修剪它的毛。
+Person continuously strokes and pets the dog while trimming.	操作者一边修剪，一边持续抚摸狗。
+Person touches the dog only to position fur, avoiding petting.	操作者只在调整毛发位置时触碰狗，避免抚摸。
+The person continues massaging the other individual's foot in the same setting.	在相同环境中，操作者继续给另一人按摩脚部。
+Gentle, slow, and rhythmic pressure applied to the foot.	以轻柔、缓慢、有节奏的力度按压脚部。
+Firm, vigorous, and rapid pressure applied to the foot.	以较大、有力、快速的力度按压脚部。
+The person continues to massage the other individual's foot using only hands in a clinical setting.	在诊疗环境中，操作者仅用双手继续给另一人按摩脚部。
+Apply light pressure with slow, soothing strokes.	以缓慢、舒缓的抚摩动作施加轻微压力。
+Apply firm pressure with rapid, deep kneading motions.	以快速、深层的揉捏动作施加较大压力。
+The athlete runs down the paved runway and jumps into the sandpit.	运动员沿铺装助跑道奔跑，并跳入沙坑。
+High intensity, rapid acceleration, and explosive force.	强度高、加速快、力量具有爆发性。
+Low intensity, gradual acceleration, and controlled force.	强度低、逐渐加速、力量受控。
+The technician manually adjusts the front fender panel of the gray car.	技术人员手动调整灰色汽车的前翼子板。
+Technician aligns panel quickly with minimal verification.	技术人员快速对齐面板，仅做少量核对。
+Technician inspects gaps meticulously before adjusting.	技术人员在调整前细致检查间隙。
+The worker operates a handheld tool on a component in an industrial environment.	工人在工业环境中用手持工具操作一个部件。
+Operate tool rapidly to maximize speed and throughput.	快速操作工具，尽可能提高速度和处理量。
+Operate tool slowly to maximize material conservation and precision.	缓慢操作工具，尽可能节省材料并提高精度。
+The industrial plant operates at sunset with smoke emitting from chimneys.	工业厂区在日落时运行，烟囱冒出烟雾。
+Thick, steady smoke plumes indicate maximum production throughput.	浓厚、稳定的烟柱表示生产处于最大产出水平。
+Thin, intermittent smoke plumes indicate reduced operational intensity.	稀薄、间歇的烟柱表示运行强度降低。
+The camera moves along the parallel tracks through the dimly lit industrial tunnel.	镜头沿平行轨道穿过昏暗的工业隧道。
+High velocity movement prioritizing minimal transit time over visual clarity.	高速移动，优先缩短通过时间，而非保证画面清晰度。
+Low velocity movement prioritizing visual inspection and data gathering.	低速移动，优先进行目视检查和数据采集。
+The man operates machinery by adjusting wires and components on the blue panel.	男子通过调整蓝色面板上的电线和部件来操作机器。
+The man performs a standard, rapid adjustment of the wires.	男子对电线进行常规、快速的调整。
+The man performs a slow, detailed verification of the wires.	男子对电线进行缓慢、细致的核查。
+Worker in blue helmet inspects open green electrical panel while wearing safety gear.	戴蓝色安全帽的工人穿着防护装备，检查打开的绿色电气柜。
+Worker immediately verifies active component visually before checking documents.	工人先立即目视核查运行中的部件，再查看文件。
+Worker reviews reference document before verifying active component visually.	工人先查阅参考文件，再目视核查运行中的部件。
+The worker in the blue helmet inspects the green electrical panel.	戴蓝色安全帽的工人检查绿色电气柜。
+Prioritize thoroughness and detail over speed.	优先保证检查全面、细致，而非速度。
+Prioritize speed and efficiency over comprehensive detail.	优先保证速度和效率，而非面面俱到的细节。
+The operator stands at the metalworking machine and initiates a pressing cycle to process the workpiece.	操作员站在金属加工机床旁，启动一次压制循环来加工工件。
+Operator uses hand or foot controls for a single manual cycle.	操作员用手动或脚踏控制完成一次手动循环。
+Operator programs HMI to initiate a continuous automated cycle.	操作员对人机界面（HMI）编程，启动连续自动循环。
+The worker inspects the machinery in the industrial facility aisle.	工人在工业设施的通道中检查机器。
+Worker walks past machinery performing visual survey.	工人从机器旁走过，进行目视查看。
+Worker stops to interact with control panel.	工人停下，操作控制面板。
+The operator inputs commands into the machinery control panel.	操作员向机器控制面板输入指令。
+Operator taps and swipes the touchscreen interface.	操作员点击并滑动触摸屏界面。
+Operator presses physical buttons and switches.	操作员按下实体按钮和开关。
+The operator inputs commands into the machinery control panel while standing with an observer.	操作员与一名观察者站在一起，向机器控制面板输入指令。
+Input commands rapidly without consulting the observer.	快速输入指令，不征询观察者的意见。
+Slow input process to consult the observer.	放慢输入过程，以便征询观察者的意见。
+Wind turbine blades spin in a vast industrial field at twilight.	暮色中，风力涡轮机叶片在广阔的工业场地上旋转。
+Blades accelerate to high rotational speeds for maximum energy.	叶片加速到较高转速，以尽可能提高能量产出。
+Blades rotate slowly to minimize mechanical stress and wear.	叶片缓慢旋转，以尽量减小机械应力和磨损。
+An industrial mixer blends thick dough in a metal bowl to achieve uniform mixing.	工业搅拌机在金属碗中搅拌稠面团，使其混合均匀。
+Mixer runs continuously without stopping or manual intervention.	搅拌机连续运行，不停止，也不进行人工干预。
+Mixer pauses for manual scraping of bowl walls.	搅拌机暂停，以便人工刮下碗壁上的材料。
+The robotic arm moves packs of bottled water onto the conveyor belt.	机械臂将成组包装的瓶装水移到传送带上。
+The arm handles exactly one pack per cycle.	机械臂每个循环只搬运一组包装。
+The arm handles two adjacent packs per cycle.	机械臂每个循环搬运相邻的两组包装。
+The drone flies towards the food and beverage processing plant in the rural area to inspect the facility.	无人机飞向乡村地区的食品饮料加工厂，检查该设施。
+Fly straight over fields for a top-down view.	径直飞过田地，获取俯视视角。
+Follow the paved road along the facility perimeter.	沿设施外围的铺装道路飞行。
+The drone flies over the food and beverage processing plant in the rural area.	无人机飞越乡村地区的食品饮料加工厂。
+Drone executes wide sweeping path covering plant and surrounding fields.	无人机沿宽阔的扫掠路径飞行，覆盖厂区和周围田地。
+Drone executes direct path focusing strictly on the processing plant.	无人机沿直接路径飞行，严格聚焦加工厂。
+Wind turbines rotate steadily in a clear sky farmland setting.	晴空下，风力涡轮机在农田场景中稳定旋转。
+Turbines accelerate to maximum speed for peak energy output.	风力涡轮机加速至最高转速，以达到峰值能量输出。
+Turbines rotate slowly to minimize mechanical wear.	风力涡轮机缓慢旋转，以尽量减少机械磨损。
+The operator adjusts the settings on the industrial machinery control panel.	操作员调整工业机器控制面板上的设置。
+Operator uses touchscreen for direct parameter manipulation.	操作员用触摸屏直接修改参数。
+Operator uses physical keypad and buttons for command entry.	操作员用实体键盘和按钮输入指令。
+The operator at the industrial control panel prepares to adjust machine settings.	工业控制面板前的操作员准备调整机器设置。
+Operator spends significant time inspecting components before adjusting settings.	操作员在调整设置前花较长时间检查部件。
+Operator immediately adjusts settings to minimize setup delay.	操作员立即调整设置，以尽量缩短准备延迟。
+The excavator lifts the large rock and places it into the pit.	挖掘机抬起大石块，将其放入坑中。
+Lift and place rock without repositioning tracks.	不调整履带位置，直接抬起并放置石块。
+Reposition tracks first, then lift and place rock.	先调整履带位置，再抬起并放置石块。
+The excavator operates on the construction site to manipulate a heavy object.	挖掘机在施工现场操作一个重物。
+Lift the large rock and deposit it into the pit.	抬起大石块，将其放入坑中。
+Move to the concrete blocks and relocate one.	移向混凝土块，并搬动其中一块。
+The fish moves forward to eat the small object from the substrate.	鱼向前移动，吃掉底部基质上的小物体。
+The fish glides forward slowly and smoothly.	鱼缓慢、平稳地向前游动。
+The fish darts forward rapidly and energetically.	鱼快速、充满活力地向前冲。
+A hummingbird flies away from the branch as another hummingbird approaches.	另一只蜂鸟靠近时，一只蜂鸟从树枝上飞走。
+High-energy rapid acceleration with fast wing beats.	高活力、快速加速，翅膀快速拍动。
+Low-energy gradual acceleration with slower wing beats.	低活力、逐渐加速，翅膀拍动较慢。
+Waves propagate from ocean to shore in a fixed aerial view with static vegetation and rocks.	固定俯视画面中，海浪由海面涌向岸边，植被和岩石保持不动。
+Waves exhibit low energy, smooth motion with minimal foam.	海浪能量低、运动平稳，泡沫很少。
+Waves exhibit high energy, turbulent motion with aggressive crashing.	海浪能量高、运动湍急，猛烈拍打。
+The sun descends behind the mountain range, causing golden hues on the snow to fade into twilight.	太阳沉落到山脉后，雪上的金色光辉逐渐消退，转入暮色。
+The sun descends slowly with gradual light fading.	太阳缓慢落下，光线逐渐减弱。
+The sun descends quickly with rapid light fading.	太阳快速落下，光线迅速减弱。
+The waterfall cascades down the rocky cliffs into the river below.	瀑布沿岩石峭壁倾泻，落入下方河流。
+High intensity, turbulent, powerful flow with heavy mist generation.	水流强烈、湍急、有力，产生大量水雾。
+Low intensity, smooth, laminar flow with minimal mist generation.	水流强度低、平稳、呈层流，产生很少水雾。
+Palm trees sway in the wind within a static tropical scene.	在静态热带场景中，棕榈树随风摇摆。
+Slow, subtle, low-amplitude oscillation of palm fronds.	棕榈叶缓慢、轻微、小幅度地摆动。
+Rapid, vigorous, high-amplitude swaying of palm fronds.	棕榈叶快速、剧烈、大幅度地摇摆。
+The robotic arm operates in the workspace to pick an object.	机械臂在工作区中操作，以拾取一个物体。
+Focus exclusively on grasping the green object immediately.	立即专注于抓取绿色物体，不做其他操作。
+Prioritize interacting with the bowl or utensil first.	优先先与碗或器具互动。
+The robotic arm closes the open microwave door in the kitchen setup.	机械臂在厨房场景中关上敞开的微波炉门。
+Direct linear approach to grasp and pull the door handle.	沿直线直接靠近，抓住并拉动门把手。
+Arcing approach to push the door edge shut.	沿弧线靠近，推门边缘将门关上。
+The hand picks up a pen from the holder and places it down within the immediate workspace.	手从笔筒中拿起一支笔，并将其放在就近工作区内。
+Place the pen on the flat desk surface away from the holder.	把笔放在远离笔筒的平坦桌面上。
+Place the pen on the holder rim or immediately adjacent to it.	把笔放在笔筒边缘或紧邻笔筒的位置。
+The robotic arm moves the yellow block to a new position on the cork surface.	机械臂将黄色积木移到软木表面上的新位置。
+Drag the block along the surface.	沿表面拖动积木。
+Lift and carry the block through air.	提起积木，从空中搬运。
+The robotic arm approaches the sealed cardboard box on the stove to open it.	机械臂靠近炉灶上的密封纸箱，准备打开它。
+Directly grasp and pull apart the box flaps.	直接抓住并拉开箱盖折片。
+Cut the sealing tape before opening the flaps.	先切开封箱胶带，再打开箱盖折片。
+The robotic arm relocates the small block to a new location on the table.	机械臂将小积木移到桌面上的新位置。
+The arm pushes the block along the table surface.	机械臂沿桌面推动积木。
+The arm grasps and lifts the block through the air.	机械臂抓住积木并提起，从空中搬运。
+The robotic arm moves the red utensil from its initial position to a final location next to the metal bowl.	机械臂将红色器具从初始位置移到金属碗旁的最终位置。
+Place utensil directly next to bowl without intermediate steps.	直接把器具放在碗旁，不经过中间步骤。
+Place utensil on green cloth first, then move to bowl.	先把器具放在绿色布上，再移到碗旁。
+The robotic arm picks a cookie from the scene.	机械臂从场景中拿起一块饼干。
+Target the cookie inside the blue bowl.	以蓝色碗中的饼干为目标。
+Target the loose cookie on the table.	以桌面上散放的饼干为目标。
+The robotic arm picks up the metal pot and places it onto the yellow cloth.	机械臂拿起金属锅，将其放到黄色布上。
+Place the pot directly in a single continuous motion.	用一次连续动作直接放置锅。
+Rotate the pot mid-air before placing it on the cloth.	在空中旋转锅后，再将其放到布上。
+The robotic arm picks up the purple tool from the cluttered toolbox.	机械臂从杂乱的工具箱中拿起紫色工具。
+Move straight to target and grasp immediately without displacing clutter.	直接移向目标并立即抓取，不挪动杂物。
+Shift surrounding clutter to clear path before grasping target.	先挪动周围杂物清出路径，再抓取目标。
+The robotic arm moves the red object from its current location to the white tray using its gripper.	机械臂用夹爪将红色物体从当前位置移到白色托盘。
+Push the object along the surface without lifting it.	沿表面推动物体，不将其抬起。
+Lift the object into the air and place it down.	把物体提到空中，再放下。
+The robotic arm performs a turning motion above the kitchen sink area.	机械臂在厨房水槽区域上方做转动动作。
+Rotate in place keeping end-effector centered over the sink.	原地旋转，使末端执行器保持在水槽中央上方。
+Rotate while shifting laterally to sweep the counter area.	旋转的同时横向移动，扫过操作台区域。
+The robotic arm moves horizontally over the tray without interacting with objects.	机械臂在托盘上方水平移动，不与物体互动。
+The arm follows a direct, straight-line trajectory.	机械臂沿直接的直线轨迹移动。
+The arm follows a wide, curved arc trajectory.	机械臂沿宽大的弧线轨迹移动。
+The robotic arm transfers the red object into the white container.	机械臂将红色物体移入白色容器。
+Use the brush tool to push the object along the surface.	用刷子工具沿表面推动物体。
+Use the gripper to lift and carry the object through the air.	用夹爪提起物体，从空中搬运。
+The robotic arm sweeps the green cloth across the wooden surface.	机械臂带动绿色布在木质表面上擦拭。
+Execute a single straight-line unidirectional stroke.	执行一次直线、单向的擦拭动作。
+Execute a curvilinear back-and-forth oscillating stroke.	执行曲线、往复摆动的擦拭动作。
+The robotic arm slides the metal can toward the pot without knocking over other objects.	机械臂将金属罐滑向锅，不碰倒其他物体。
+The arm slides the can along a straight linear path.	机械臂沿直线路径滑动金属罐。
+The arm slides the can along a curved arc path.	机械臂沿弧线路径滑动金属罐。
+The robotic arm interacts with the black bowl assembly to retrieve the yellow rectangular object.	机械臂操作黑色碗组件，以取出黄色长方形物体。
+Grasp the yellow object directly inside the bowl.	直接抓取碗内的黄色物体。
+Grasp the black bowl container to manipulate the object.	抓住黑色碗容器，以操作其中的物体。
+The robotic arm moves the green cloth across the wooden table.	机械臂将绿色布移过木桌。
+Push the cloth across the table without grasping.	不抓住布，直接将其推过桌面。
+Grasp the cloth firmly and drag it across.	牢牢抓住布，将其拖过桌面。
+The robotic arm moves the rubber chicken into the metal bowl.	机械臂将橡胶鸡放入金属碗。
+Directly grasp and place the chicken without using the scoop.	直接抓起并放置橡胶鸡，不使用舀勺。
+Use the scoop to transfer the chicken into the bowl.	用舀勺将橡胶鸡移入碗中。
+The robotic arm moves the yellow object and places it into the white tray.	机械臂移动黄色物体，将其放入白色托盘。
+Execute a direct, efficient trajectory with minimal intermediate steps.	沿直接、高效的轨迹移动，尽量减少中间步骤。
+Execute a cautious maneuver with intermediate positioning and deliberate placement.	谨慎操作，经过中间定位并从容放置。
+The robotic arm closes the microwave door.	机械臂关上微波炉门。
+Grasp the handle and pull the door shut.	抓住把手，将门拉上。
+Push the door panel directly without grasping.	直接推门板，不抓取。
+The robotic arm transfers cookies from the pink bowl to the gray bowl on the wooden table.	机械臂将木桌上粉色碗中的饼干移到灰色碗中。
+The arm picks and places cookies one by one individually.	机械臂逐块拿取并放置饼干。
+The arm lifts the pink bowl and pours cookies into the gray bowl.	机械臂抬起粉色碗，将饼干倒入灰色碗。
+The robotic arm grasps the spatula and moves it from the blue cloth to the edge of the table.	机械臂抓住锅铲，将其从蓝色布上移到桌边。
+Grasp by handle; move with blade pointing forward.	抓住手柄，移动时铲面指向前方。
+Grasp by blade; move with handle pointing toward arm.	抓住铲面，移动时手柄指向机械臂。
+The robotic arm retrieves the orange and white object from the amber bowl on the wooden platform.	机械臂从木质台面上的琥珀色碗中取出橙白相间的物体。
+Grasp the object directly inside the bowl.	直接抓取碗内的物体。
+Tilt the bowl to slide the object out.	倾斜碗，让物体滑出。
+The robotic arm places the yellow squash into one of the two bowls.	机械臂将黄色南瓜放入两个碗中的一个。
+Place squash into the bowl containing tomatoes.	把南瓜放入装有番茄的碗中。
+Place squash into the empty bowl.	把南瓜放入空碗中。
+The robotic arm picks up the loose metal lid and places it onto a stable surface.	机械臂拿起单独放置的金属盖，将其放在稳定表面上。
+Place the lid onto the stovetop burner.	把盖子放到炉灶的炉头上。
+Place the lid into the sink basin.	把盖子放入水槽盆内。
+The robotic arm picks up the green pepper and places it on the green plate.	机械臂拿起青椒，将其放在绿色盘子上。
+Move pepper directly from counter to plate without intermediate steps.	直接把青椒从台面移到盘子，不经过中间步骤。
+Stage pepper in metal bowl before moving it to the plate.	先把青椒暂放在金属碗中，再移到盘子上。
+The robotic arm picks up the container and places it on the platform.	机械臂拿起容器，将其放在平台上。
+Pick and place in one continuous motion.	用一次连续动作完成拿起和放下。
+Pick, hold to align, then place.	先拿起，持稳对齐后再放下。
+The robotic arm moves the yellow block from the shelf into the white tray without moving the red block.	机械臂将黄色积木从架子移入白色托盘，不移动红色积木。
+Firmly grasp and lift the block vertically before moving.	牢牢抓住积木，先垂直提起再移动。
+Slide and scoop the block horizontally without lifting.	水平滑动并铲取积木，不将其抬起。
+The robotic arm moves the sushi from the countertop into the pot.	机械臂将寿司从台面移入锅中。
+The arm directly grasps the sushi with its gripper.	机械臂直接用夹爪抓取寿司。
+The arm uses the spatula to scoop and transfer the sushi.	机械臂用锅铲铲起并转移寿司。
+The robotic arm interacts with the cabinet door to open it.	机械臂操作柜门，将其打开。
+Grasp the handle and pull the door open.	抓住把手，将门拉开。
+Push the door surface to slide or swing it open.	推门的表面，使门滑开或转开。
+The robotic arm fully opens the cardboard box on the wooden counter.	机械臂完全打开木质操作台上的纸箱。
+Lift and secure one flap, then the second.	先抬起并固定一片箱盖，再处理第二片。
+Lift both flaps outward at once.	同时向外掀开两片箱盖。
+The robotic arm moves steadily towards the open box to position for interaction.	机械臂稳定地移向打开的箱子，为互动定位。
+The arm moves in a straight line directly towards the box center.	机械臂沿直线直接移向箱子中央。
+The arm moves in a curved arc to navigate around the fork.	机械臂沿弧线移动，以绕开叉子。
+The robotic arm grasps a pastry from the pink bowl and lifts it.	机械臂从粉色碗中抓起一块糕点并提起。
+Place the pastry into the empty gray bowl.	把糕点放入空的灰色碗。
+Place the pastry directly onto the wooden table.	把糕点直接放到木桌上。
+The hand moves the black lid to seal the open jar of pistachios.	手移动黑色盖子，将打开的开心果罐封好。
+Lid moves straight down vertically to seal the jar.	盖子竖直向下移动，封住罐口。
+Lid swings from the side in an arc to seal.	盖子从侧面沿弧线摆动，封住罐口。
+The robotic arm slides the blue towel across the table.	机械臂将蓝色毛巾沿桌面滑动。
+Slide the towel while keeping it folded.	滑动毛巾时保持其折叠状态。
+Unfold the towel before sliding it.	先展开毛巾，再滑动。
+The robotic arm slides the yellow cloth across the wooden surface.	机械臂将黄色布沿木质表面滑动。
+The arm slides the cloth using direct contact.	机械臂直接接触布，使其滑动。
+The arm slides the cloth using the blue spoon.	机械臂用蓝色勺子使布滑动。
+The robotic arm closes the open cabinet door in the kitchen.	机械臂关上厨房中敞开的柜门。
+Push the center face of the door to close it.	推门的中央表面，将其关上。
+Pull the leading edge of the door to close it.	拉门的前缘，将其关上。
+The robotic arm interacts with the refrigerator door to open it.	机械臂操作冰箱门，将其打开。
+Grasp and pull the primary vertical handle.	抓住并拉动主要的竖直把手。
+Grasp and pull the secondary dispenser window lever.	抓住并拉动次要的取水窗口拨杆。
+The robotic arm moves the held object from its current position into the empty container.	机械臂将持有的物体从当前位置移入空容器。
+The arm executes a direct rotational pivot to swing the object into the container.	机械臂直接绕轴旋转，将物体摆入容器。
+The arm executes a linear translation to shift the object into the container.	机械臂沿直线平移，将物体移入容器。
+The robotic arm picks up the metal pot from the stovetop.	机械臂从炉灶上拿起金属锅。
+Direct vertical descent and lift without lateral movement.	直接垂直下降再提起，不做横向移动。
+Lateral approach with wrist rotation before lifting.	从侧面靠近，先旋转腕部再提起。
+The robotic arm removes the red toy food item from the blue plate.	机械臂将红色食物玩具从蓝色盘子上移走。
+The arm directly grasps the red toy food item with its gripper.	机械臂直接用夹爪抓取红色食物玩具。
+The arm uses the wooden spatula to move the red toy food item.	机械臂用木铲移动红色食物玩具。
+The robotic arm retrieves the green object from the metal bowl.	机械臂从金属碗中取出绿色物体。
+Grasp the green object directly with the end-effector.	直接用末端执行器抓取绿色物体。
+Use the spoon as a tool to retrieve the object.	用勺子作为工具取出物体。
+The robotic arm moves the cylindrical object to a new location on the table.	机械臂将圆柱形物体移到桌面上的新位置。
+Drag the object along the table surface.	沿桌面拖动物体。
+Lift and carry the object through the air.	提起物体，从空中搬运。
+The player advances towards the capture point in the warehouse while aiming down sights.	玩家在仓库内朝占领点前进，同时保持开镜瞄准。
+Advance using crates and barrels for frequent cover.	前进时频繁利用箱子和桶作为掩体。
+Sprint through open space without using cover.	冲刺穿过开阔区域，不使用掩体。
+The player advances towards the capture point while aiming down sights within the warehouse.	玩家在仓库内保持开镜瞄准，朝占领点前进。
+Advance by strictly hugging cover to minimize exposure.	前进时严格贴着掩体，以尽量减少暴露。
+Advance quickly across open floor accepting higher exposure.	快速穿过开阔地面前进，接受更高的暴露程度。
+The player advances towards the capture point in the warehouse while maintaining combat readiness.	玩家在仓库内朝占领点前进，同时保持战斗准备。
+Advance using cover and minimal firing to conserve ammunition.	利用掩体前进，仅少量开火以节省弹药。
+Advance with frequent automatic fire to suppress threats.	前进时频繁自动射击，以压制威胁。
+A character crawls on a dirt path towards a bunker amidst intense explosions and debris.	一名角色在剧烈爆炸和飞散碎片中，沿土路爬向掩体。
+Character reaches bunker and opens green weapon crate.	角色抵达掩体，并打开绿色武器箱。
+Character aborts advance, turns away, and takes cover.	角色放弃前进，转向别处并寻找掩护。
+The character crawls towards the bunker amidst explosions and opens a green weapon crate.	角色在爆炸中爬向掩体，并打开绿色武器箱。
+Crawl in a straight line directly through the center of the explosion.	沿直线爬行，直接穿过爆炸中心。
+Steer crawling movement to the right to bypass the explosion center.	向右调整爬行方向，绕过爆炸中心。
+Character crawls towards bunker amidst explosions and debris to open crate.	角色在爆炸和碎片中爬向掩体，以打开箱子。
+Crawl directly through center of explosion path.	直接从爆炸路径中央爬过。
+Crawl along right edge using terrain cover.	沿右侧边缘爬行，利用地形掩护。
+The character advances towards the bunker amidst explosions and encounters a green weapon crate.	角色在爆炸中向掩体前进，遇到一个绿色武器箱。
+Bypass the crate to reach safety immediately.	绕过箱子，立即到达安全处。
+Stop to open the crate and gather resources.	停下打开箱子，收集资源。
+In an RPG combat scene, a character in white casts a spell while a character in armor readies an attack against a monster, with UI showing HP and TP.	在角色扮演游戏的战斗场景中，白衣角色施放法术，穿盔甲的角色准备攻击怪物，界面显示 HP 和 TP。
+Character casts healing spell to preserve party health and minimize death risk.	角色施放治疗法术，维持队伍生命值并尽量降低死亡风险。
+Character casts high-damage offensive spell to maximize output despite survival risk.	角色施放高伤害攻击法术，尽可能提高输出，即使存在生存风险。
+In a combat turn, the character in white casts a spell consuming TP resources while the armored character readies an attack.	在一个战斗回合中，白衣角色消耗 TP 施放法术，穿盔甲的角色准备攻击。
+Prioritize spending resources to restore party health points.	优先把资源用于恢复队伍生命值。
+Prioritize spending resources to maximize enemy damage output.	优先把资源用于尽可能提高对敌伤害输出。
+Two characters fly rapidly side by side forward over a rocky landscape.	两个角色并排快速向前飞过岩石地貌。
+Fly high above terrain in a wide formation.	以宽松队形在地形上方高空飞行。
+Fly low near rocks in a tight formation.	以紧密队形靠近岩石低空飞行。
+Two characters fly rapidly side by side over a rocky landscape.	两个角色并排快速飞过岩石地貌。
+Characters ascend to higher altitude with wider margins.	角色升到更高高度，留出更大的余量。
+Characters fly at low altitude with tighter margins.	角色低空飞行，留出的余量较小。
+The player interacts with the RPG inventory menu to select an item.	玩家操作角色扮演游戏的物品栏菜单，选择一件物品。
+Select the highlighted Wooden Sword item.	选择高亮显示的木剑物品。
+Select the Leather Shield item instead.	改为选择皮盾物品。
+The player selects a weapon from the inventory menu to equip the character.	玩家从物品栏菜单中选择武器，为角色装备。
+Select the low-tier Wooden Sword for cost efficiency.	为节约成本，选择低等级木剑。
+Select the high-tier Steel Sword for maximum power.	为获得最大威力，选择高等级钢剑。
+The player interacts with the RPG inventory menu to confirm the selection of an item.	玩家操作角色扮演游戏的物品栏菜单，确认物品选择。
+Select the low-cost item to minimize currency expenditure.	选择低价物品，以尽量减少货币支出。
+Select the high-cost item to maximize equipment power.	选择高价物品，以尽可能提高装备威力。
+An armored character aims a large weapon while two others prepare weapons in a post-apocalyptic standoff.	在末日后的对峙场景中，一名穿盔甲的角色瞄准一把大型武器，另外两人准备武器。
+Characters fire weapons, initiating a chaotic active firefight.	角色们开火，展开混乱的激烈枪战。
+Characters hold aim without firing, maintaining a tense standoff.	角色们保持瞄准但不开火，维持紧张对峙。
+An armored character aims a large weapon while two allies prepare their weapons in a post-apocalyptic desert setting.	在末日后的沙漠场景中，一名穿盔甲的角色瞄准一把大型武器，两名盟友准备各自的武器。
+Allies move closer to form a tight defensive cluster around the main character.	盟友靠近主角，围成紧密的防御阵形。
+Allies move laterally to secure a wide perimeter and flank the main character.	盟友横向移动，扩大外围防守范围，分列主角两侧。
+An armored character aims a large weapon at two other characters preparing weapons in a post-apocalyptic landscape.	在末日后的地貌中，一名穿盔甲的角色用大型武器瞄准另外两名正在准备武器的角色。
+Character holds aim steady without firing to assess the situation.	角色保持稳定瞄准，不开火，以评估形势。
+Character immediately discharges the weapon to neutralize the threat.	角色立即开火，以消除威胁。
+The armored character engages targets with a large weapon in a barren post-apocalyptic landscape while allies prepare nearby.	在荒凉的末日后地貌中，穿盔甲的角色用大型武器攻击目标，盟友在附近准备。
+Fire rapidly in continuous bursts to suppress targets immediately.	快速连续点射，立即压制目标。
+Fire slowly with precise single shots to save ammunition.	缓慢、精确地单发射击，以节省弹药。
+The character shoots at the advancing monster in the cave.	角色向洞穴内正在逼近的怪物射击。
+The monster collapses and is neutralized.	怪物倒下，威胁被消除。
+The monster survives and continues advancing.	怪物存活，继续逼近。
+The character engages the advancing monster with a weapon in the wet cavern.	角色在潮湿洞穴中用武器迎击逼近的怪物。
+Hold ground and fire directly at the monster.	坚守原地，直接向怪物开火。
+Retreat or strafe while firing to maintain distance.	边开火边后退或横向移动，以保持距离。
+The character engages the advancing monster with a weapon in the hazardous cave.	角色在危险洞穴中用武器迎击逼近的怪物。
+Character moves forward to engage the monster at close range.	角色向前移动，近距离迎击怪物。
+Character maintains distance to engage the monster from far away.	角色保持距离，远距离迎击怪物。
+The character engages the advancing monster in the wet cavern using their weapon.	角色在潮湿洞穴中使用武器迎击逼近的怪物。
+Character fires sustained automatic bursts to maximize immediate damage.	角色持续进行自动连发，以尽可能提高即时伤害。
+Character fires precise single shots to conserve ammunition.	角色精确地单发射击，以节省弹药。
+The character stands on the stone platform near the tree with the game HUD visible.	角色站在树旁的石质平台上，游戏状态界面可见。
+Open shop interface and purchase an item using gold.	打开商店界面，用金币购买一件物品。
+Walk towards the tree to interact with the environment.	走向树木，与环境互动。
+The character interacts with the in-game shop interface while remaining on the stone platform.	角色保持在石质平台上，操作游戏内商店界面。
+The character spends a significant portion of available gold on high-tier items.	角色花费现有金币中的较大部分购买高等级物品。
+The character saves gold, purchasing only minor consumables or no items.	角色节省金币，只购买少量低价值消耗品，或不购买物品。
+The orange sports car speeds down the highway with the driver holding a phone.	橙色跑车在高速公路上疾驰，驾驶员拿着手机。
+The car remains in the current lane without changing position.	汽车保持在当前车道，不改变位置。
+The car changes lanes to overtake the traffic ahead.	汽车变道，超越前方车流。
+The orange sports car continues driving forward on the highway with the driver holding a phone.	橙色跑车继续沿高速公路向前行驶，驾驶员拿着手机。
+Driver continues looking at phone screen while driving.	驾驶员行驶时继续看手机屏幕。
+Driver puts phone away to focus entirely on the road.	驾驶员收起手机，全神贯注于道路。
+The orange sports car continues driving forward on the highway with other vehicles present.	橙色跑车继续沿高速公路向前行驶，路上还有其他车辆。
+Driver keeps gaze fixed on the phone screen.	驾驶员一直盯着手机屏幕。
+Driver shifts gaze from phone to the road.	驾驶员将目光从手机转向道路。
+The orange sports car travels on the highway with the driver holding a phone.	橙色跑车在高速公路上行驶，驾驶员拿着手机。
+Maintain high speed while keeping eyes fixed on the phone screen.	保持高速，目光一直盯着手机屏幕。
+Slow down to moderate speed and put the phone away to focus on road.	减速至适中速度，收起手机以专注于道路。
+The protagonist climbs out of the swampy water in the dense jungle.	主角从茂密丛林中的沼泽水里爬出来。
+The protagonist immediately moves towards the distant canopy.	主角立即朝远处的树冠处移动。
+The protagonist stops to rest and recover on the bank.	主角停在岸上休息恢复。
+Attacking units advance through breached defenses and destroy buildings in the enemy base.	进攻部队穿过被突破的防线，摧毁敌方基地中的建筑。
+Units prioritize destroying the central Town Hall.	部队优先摧毁中央市政厅。
+Units prioritize destroying peripheral defensive and resource buildings.	部队优先摧毁外围的防御和资源建筑。
+Attacking units advance through the breach to destroy enemy base buildings and engage defensive turrets.	进攻部队穿过缺口前进，摧毁敌方基地建筑，并攻击防御炮塔。
+Units advance directly towards the central core, prioritizing innermost high-value buildings.	部队直接向中心核心区域推进，优先攻击最内层的高价值建筑。
+Units split to clear outer perimeter defenses before converging on the center.	部队先分头清除外围防御，再向中心会合。
+Attacking units advance through the breached base defenses to destroy buildings.	进攻部队穿过被突破的基地防线，前去摧毁建筑。
+Units move directly through open areas ignoring defensive fire.	部队直接穿过开阔区域，不顾防御火力。
+Units hug walls and debris to minimize exposure to fire.	部队紧贴墙壁和废墟，尽量减少暴露在火力下的程度。
+Attacking units advance through breached defenses toward remaining buildings with 2 Dragons and 1 Healer available in the deployment queue.	进攻部队穿过被突破的防线，向剩余建筑推进；部署队列中还有 2 条飞龙和 1 名治疗者可用。
+Deploy remaining Dragons and Healer to maximize building destruction.	部署剩余飞龙和治疗者，尽可能增加建筑摧毁量。
+End battle immediately to preserve remaining Dragons and Healer.	立即结束战斗，保留剩余飞龙和治疗者。
+The character stands near the enemy champion in the game environment, preparing for an encounter.	角色在游戏环境中站在敌方英雄附近，准备交锋。
+Character engages enemy, lands abilities, and forces retreat or elimination.	角色与敌方交战，技能命中，迫使对方撤退或将其击败。
+Character uses mobility to back away, avoiding combat entirely.	角色利用机动能力后退，完全避免战斗。
+The character stands near bushes facing a visible enemy champion in the top lane, preparing for a potential encounter.	角色站在上路草丛附近，面向可见的敌方英雄，为可能发生的交锋做准备。
+Move into open space to directly engage the enemy champion.	移到开阔区域，直接与敌方英雄交战。
+Utilize brush for cover and avoid direct confrontation.	利用草丛掩护，避免正面交锋。
+The character engages the enemy champion in a strategic battle.	角色在一场策略性战斗中与敌方英雄交战。
+Spend all mana to maximize immediate damage output.	消耗全部法力，以尽可能提高即时伤害输出。
+Conserve mana to maintain sustainability for future skirmishes.	节省法力，为后续小规模交战保持续航。
+An adventurer in armor stands at the edge of a wooden bridge over a misty river at dawn.	黎明时分，一名穿盔甲的冒险者站在雾气笼罩的河流上的木桥边。
+The adventurer crosses the bridge to the opposite bank.	冒险者过桥到达对岸。
+The adventurer remains on the starting bank or retreats.	冒险者留在出发侧河岸，或向后撤退。
+The adventurer crosses the wooden bridge over the misty river at dawn.	黎明时分，冒险者走过雾气笼罩的河流上的木桥。
+Cross slowly, testing planks and keeping a low center of gravity.	缓慢过桥，试探木板，并保持较低的重心。
+Cross at a steady, confident pace without hesitation or testing.	以稳定、自信的步伐过桥，不犹豫，也不试探。
+The armored adventurer crosses the wooden bridge over the misty river at dawn.	黎明时分，穿盔甲的冒险者走过雾气笼罩的河流上的木桥。
+Sprint across the bridge with high physical effort.	全力冲刺过桥，消耗较多体力。
+Walk across the bridge conserving physical stamina.	步行过桥，节省体力。
+In a dark RPG clearing, a warrior approaches a downed enemy to resolve the combat encounter.	在角色扮演游戏的昏暗空地上，一名战士靠近倒地的敌人，准备结束这场交战。
+Warrior executes a lethal finishing blow to kill the enemy.	战士实施致命的终结一击，杀死敌人。
+Warrior lowers weapon to spare the downed enemy.	战士放下武器，饶过倒地的敌人。
+The warrior engages the nearby enemy with a strike in the dark RPG clearing.	战士在角色扮演游戏的昏暗空地上，挥击附近的敌人。
+Warrior executes immediate powerful strike from a stationary position.	战士从静止位置立即发动强力打击。
+Warrior sprints forward to close distance before striking.	战士先向前冲刺缩短距离，再发动打击。
+In a dark RPG clearing, a warrior stands ready to engage a nearby enemy.	在角色扮演游戏的昏暗空地上，一名战士站定，准备迎击附近的敌人。
+Warrior attacks immediately without assessing the situation.	战士不评估形势，立即攻击。
+Warrior pauses to assess before attacking.	战士先停顿评估，再发动攻击。
+The warrior engages the enemy in combat within the dark clearing.	战士在昏暗空地上与敌人战斗。
+Execute a powerful strike consuming high stamina for maximum impact.	消耗大量耐力发动强力打击，以获得最大冲击效果。
+Perform light efficient attacks conserving stamina for resource preservation.	采用轻巧、高效的攻击，节省耐力以保留资源。
+The player holds a rifle on a street as the game countdown finishes.	游戏倒计时结束时，玩家在街上持着步枪。
+Player crouches low and aims rifle down the street.	玩家低姿蹲伏，沿街道瞄准步枪。
+Player stands tall and moves forward down the street.	玩家直立站起，沿街道向前移动。
+The player crouches and prepares to aim down the street as the countdown to the action begins.	行动倒计时开始时，玩家蹲下，准备沿街道瞄准。
+Crouch behind the large metal container for maximum protection.	蹲在大型金属容器后，获得最大程度的保护。
+Advance towards the central car to gain a tactical vantage point.	向中央的汽车前进，以获得有利的战术观察位置。
+The player holds a rifle and aims down an urban street lined with buildings as a game countdown begins.	游戏倒计时开始时，玩家持步枪沿两侧有建筑的城市街道瞄准。
+Player remains crouched behind cover with low exposure.	玩家保持蹲在掩体后，暴露程度低。
+Player stands and advances into open street with high exposure.	玩家站起，进入开阔街道前进，暴露程度高。
+The player advances down the street in a Search and Rescue mission, maintaining first-person perspective and weapon readiness.	玩家在搜救任务中沿街道前进，保持第一人称视角和武器就绪状态。
+Fire multiple rounds to clear the area, rapidly depleting ammunition.	发射多发子弹清理区域，快速消耗弹药。
+Advance silently without firing to preserve ammunition for later.	静默前进，不开火，将弹药留待之后使用。
+Players in purple jerseys celebrate a goal near the goalpost while teammates approach and the crowd cheers.	穿紫色球衣的球员在门柱附近庆祝进球，队友走近，观众欢呼。
+Celebration remains focused on the initial two players hugging.	庆祝始终集中在最初相拥的两名球员身上。
+Teammates join to form a tight full-team group huddle.	队友加入，全队紧密地围成一团。
+Players in purple jerseys are on the field after scoring a goal, with the ball stationary near the goal line and the crowd cheering in the background.	穿紫色球衣的球员进球后留在场上，球静止在球门线附近，背景中的观众欢呼。
+Players prolong the celebration with hugging and jumping, delaying the match restart.	球员们通过拥抱和跳跃延长庆祝，推迟比赛重新开始。
+Players briefly acknowledge the goal then rush to positions for an immediate restart.	球员们简短庆祝进球后，迅速回到位置，立即重新开赛。
+The transport plane flies over the game map with clouds, maintaining flight.	运输机保持飞行，飞过有云层的游戏地图。
+The plane initiates the sequence to eject players.	飞机启动让玩家离机的程序。
+The plane continues flying without deploying players.	飞机继续飞行，不投放玩家。
+The transport plane flies over the game map and prepares to drop players.	运输机飞过游戏地图，准备投放玩家。
+Deploy players over the central, high-value contested area.	在中央高价值争夺区上空投放玩家。
+Deploy players over the peripheral, isolated safe area.	在外围偏僻安全区上空投放玩家。
+The transport plane flies over the game map and the player exits to glide toward a landing zone.	运输机飞过游戏地图，玩家离机后滑翔至着陆区。
+Exit the plane significantly earlier to prioritize a safe, uncontested landing area.	明显提前离机，优先选择安全、无人争夺的着陆区。
+Exit the plane as late as possible to prioritize proximity to the objective.	尽可能晚离机，优先靠近目标地点。
+The transport plane flies over the game map, preparing to drop players.	运输机飞过游戏地图，准备投放玩家。
+Steer towards high-traffic area for immediate high-tier resources.	飞向人流密集区域，以立即获取高等级资源。
+Steer towards remote isolated area to avoid early combat.	飞向偏远隔绝区域，避免早期战斗。
+The player organizes base defenses using existing buildings and walls to improve defensive capability.	玩家利用现有建筑和城墙组织基地防御，提高防御能力。
+Create a dense, multi-layered wall core to funnel attackers.	构建密集、多层的城墙核心，引导攻击者进入限定路线。
+Distribute defenses across the map in isolated compartments.	将防御设施分散到地图上的独立分区中。
+The player rearranges existing base buildings in editing mode to organize defenses.	玩家在编辑模式下重新布置现有基地建筑，组织防御。
+Move resources behind inner walls to minimize exposure.	把资源移到内墙后方，以尽量减少暴露。
+Place collectors on perimeter to maximize collection speed.	把采集器放在外围，以尽可能提高采集速度。
+The player manages base defenses in the strategy game interface while existing upgrade timers count down.	玩家在策略游戏界面中管理基地防御，现有升级计时器正在倒计时。
+Player spends resources to immediately upgrade defensive structures.	玩家花费资源，立即升级防御设施。
+Player conserves resources by waiting for current upgrades to finish.	玩家等待当前升级完成，以节省资源。
+Player in orange jacket crouches behind rock aiming weapon at unseen enemy in grassy area.	穿橙色夹克的玩家蹲在草地区域的一块岩石后，用武器瞄准不可见的敌人。
+Player stands and fires weapon at enemy.	玩家站起，向敌人开火。
+Player lowers weapon and runs away from rock.	玩家放下武器，从岩石旁跑开。
+The player engages an enemy while positioned near a large rock in a grassy area.	玩家在草地区域的一块大岩石附近与敌人交战。
+The player fires while remaining stationary behind the rock.	玩家保持在岩石后原地开火。
+The player fires while moving laterally to a new position.	玩家边开火边横向移动到新位置。
+Fire while keeping the body strictly behind the rock.	开火时身体严格保持在岩石后。
+Stand up and step out from behind the rock.	站起身，从岩石后走出来。
+The player in an orange jacket crouches behind a rock in a grassy area, aiming a gun at an unseen enemy and firing.	穿橙色夹克的玩家蹲在草地区域的一块岩石后，持枪瞄准不可见的敌人并开火。
+Fire rapid multiple bursts to suppress enemy, expending significant ammunition.	快速进行多次连发以压制敌人，消耗大量弹药。
+Fire single precise shot to test position, conserving ammunition.	精确地单发射击以试探位置，节省弹药。
+Two characters stand on a dirt path in a grassy area with a tree and signpost; dialogue suggests sleeping.	两个角色站在草地区域的一条土路上，附近有树和路牌；对话提出睡觉的建议。
+Characters accept the suggestion and transition to a sleep state.	角色们接受建议，进入睡眠状态。
+Characters decline the suggestion and walk away to continue exploring.	角色们拒绝建议，走开继续探索。
+Characters agree to rest and sleep in the current scene without combat.	角色们同意在当前场景中休息睡觉，不发生战斗。
+Characters sit down immediately at their current location to sleep.	角色们立即在当前位置坐下睡觉。
+Characters walk to the large tree before sitting down to sleep.	角色们先走到大树旁，再坐下睡觉。
+Characters stand on a dirt path near a tree and signpost, facing a dialogue choice about sleeping.	角色们站在树和路牌附近的土路上，面对是否睡觉的对话选项。
+Accept sleep to fully restore health and energy resources.	选择睡觉，完全恢复生命值和能量资源。
+Decline sleep to save time and continue journey immediately.	拒绝睡觉，以节省时间并立即继续旅程。
+The tank remains stationary and fires its main cannon at a distant enemy tank.	坦克保持静止，用主炮向远处敌方坦克开火。
+The tank fires at the left-most enemy tank.	坦克向最左侧的敌方坦克开火。
+The tank fires at the right-most enemy tank.	坦克向最右侧的敌方坦克开火。
+The tank fires a shell at the distant red-marked enemy tank.	坦克向远处以红色标记的敌方坦克发射炮弹。
+The shell follows a flat, direct line-of-sight trajectory.	炮弹沿平直、直接瞄准目标的轨迹飞行。
+The shell follows a high, arcing indirect trajectory.	炮弹沿高抛、间接的弧线轨迹飞行。
+A tank aims its cannon at distant enemy tanks in an open field with sparse trees.	一辆坦克在树木稀疏的开阔原野上，将火炮瞄准远处敌方坦克。
+Fire immediately from the current exposed position.	立即从当前暴露的位置开火。
+Maneuver to cover before engaging the enemy.	先移动到掩体，再与敌人交战。
+The tank aims its cannon at the distant red-marked enemy tank.	坦克将火炮瞄准远处以红色标记的敌方坦克。
+Wait for optimal trajectory alignment before firing a precise shot.	等弹道达到最佳对准状态，再精确开火。
+Fire immediately upon target acquisition to prioritize engagement speed.	一锁定目标就立即开火，优先保证交战速度。
+RPG character in snowy combat environment with enemies and allies present.	角色扮演游戏中的角色身处积雪战斗环境，敌人和盟友都在场。
+Character casts spell dealing significant damage to enemy.	角色施放法术，对敌人造成大量伤害。
+Character stops attacking and runs away to safety.	角色停止攻击，跑到安全处。
+The RPG character casts a spell at an enemy in the snowy combat environment, dealing damage.	角色扮演游戏中的角色在积雪战斗环境中向敌人施放法术，造成伤害。
+Cast spell from a safe distance to minimize hazard exposure.	在安全距离施放法术，以尽量减少危险暴露。
+Close the gap to the enemy, accepting higher hazard exposure.	缩短与敌人的距离，接受更高的危险暴露。
+RPG character stands in snowy combat zone with visible HUD and enemies.	角色扮演游戏中的角色站在积雪战区，状态界面和敌人可见。
+Cast high-damage spell expending maximum resources.	施放高伤害法术，消耗最大量的资源。
+Refrain from casting spell to conserve resources.	不施放法术，以节省资源。
+The blue car approaches a dirt corner in a simulation video game.	蓝色汽车在模拟电子游戏中驶近土路弯道。
+The car completes the turn and stays on the track.	汽车完成转弯，保持在赛道上。
+The car fails to turn and drives off the track.	汽车未能转过弯，驶出赛道。
+The blue car drifts around a dirt track turn in a simulation video game.	蓝色汽车在模拟电子游戏中漂移通过土质赛道弯道。
+The car takes a wide line with a large safety margin.	汽车走较宽的路线，留出较大的安全余量。
+The car takes a tight line hugging the inner barriers.	汽车走紧凑路线，贴近内侧护栏。
+The blue car navigates the turn on the dirt track.	蓝色汽车通过土质赛道上的弯道。
+Drift aggressively with high speed and resource consumption.	高速、激进地漂移，消耗较多资源。
+Corner efficiently with low speed and resource conservation.	低速、高效地过弯，节省资源。
+The player character runs through the dark forest.	玩家角色跑过昏暗森林。
+The character runs towards the glowing green beacon.	角色跑向发出绿光的信标。
+The character runs away from the glowing green beacon.	角色朝远离绿光信标的方向跑。
+The player character moves through the dark forest towards the glowing green beacon.	玩家角色穿过昏暗森林，向发出绿光的信标移动。
+Sprint in a straight line directly towards the beacon.	沿直线直接向信标冲刺。
+Weave through trees using cover to approach the beacon.	穿行树木之间，利用掩护靠近信标。
+Sprint aggressively towards the beacon, prioritizing speed over safety.	奋力冲向信标，优先速度而非安全。
+Walk slowly and deliberately, prioritizing observation to ensure safety.	缓慢、从容地步行，优先观察以确保安全。
+The player character travels through the dark forest towards the glowing green beacon.	玩家角色穿过昏暗森林，前往发出绿光的信标。
+Sprint at full speed to minimize travel time.	全速冲刺，尽量缩短行进时间。
+Walk steadily to conserve physical energy.	稳定步行，节省体力。
+The mutant creature in the industrial room initiates a combat maneuver against the enemy.	工业房间内的变异生物向敌人发起一个战斗动作。
+The creature completes the charge and lands a heavy punch.	生物完成冲锋，并命中一记重拳。
+The creature halts the charge and assumes a defensive crouch.	生物停止冲锋，摆出防御性蹲姿。
+The mutant creature initiates a successful attack on the enemy within the industrial room.	变异生物在工业房间内成功向敌人发起攻击。
+The creature charges forward and delivers a direct linear punch.	生物向前冲锋，直接沿直线出拳。
+The creature grabs the enemy and slams them into machinery.	生物抓住敌人，将其猛撞到机器上。
+The mutant creature engages the enemy in the industrial room and delivers a strike.	变异生物在工业房间内与敌人交战，并发动打击。
+Direct aggressive charge across open floor with minimal defense.	直接、猛烈地冲过开阔地面，几乎不做防御。
+Cautious approach using machinery cover to minimize exposure.	谨慎接近，利用机器掩护，尽量减少暴露。
+The mutant creature engages the enemy in close combat within the industrial room, dealing damage.	变异生物在工业房间内与敌人近身交战，造成伤害。
+Activate Rage ability for a massive, screen-shaking slam attack.	激活狂怒技能，发动猛烈的重砸攻击，使画面震动。
+Refrain from Rage ability; use rapid standard physical punches.	不使用狂怒技能，改用快速的普通物理拳击。
+The user navigates the RPG Skills menu cursor to select a category, updating the right panel.	用户在角色扮演游戏的技能菜单中移动光标选择分类，使右侧面板更新。
+Select the Blades of Chaos category.	选择“混沌之刃”分类。
+Select the Atreus category.	选择“阿特柔斯”分类。
+Navigate the RPG Skills menu sidebar to select a weapon category and display its skill tree on the right panel.	在角色扮演游戏技能菜单侧栏中选择武器分类，并在右侧面板显示其技能树。
+Select the Blades of Chaos weapon category.	选择“混沌之刃”武器分类。
+Select the Leviathan Axe weapon category.	选择“利维坦之斧”武器分类。
+Two defenders converge to tackle the ball carrier near the end zone goal line.	两名防守球员在端区得分线附近汇合，擒抱持球者。
+Player crosses the goal line to score a touchdown.	球员越过得分线，完成达阵。
+Defenders tackle the player before the goal line is crossed.	防守球员在持球者越过得分线前将其擒抱倒地。
+Two defenders converge on a ball carrier near the end zone to stop him from scoring a touchdown.	两名防守球员在端区附近逼近持球者，阻止他达阵得分。
+Defenders execute a direct, high-impact tackle to force an immediate stop.	防守球员直接进行高冲击擒抱，迫使持球者立即停下。
+Defenders use lateral positioning to force the ball carrier out of bounds.	防守球员通过横向站位，迫使持球者出界。
+Two defenders converge to tackle a ball carrier near the end zone in a football simulation.	在橄榄球模拟游戏中，两名防守球员在端区附近汇合，擒抱持球者。
+Defenders aggressively commit to a high-impact tackle.	防守球员猛烈地全力实施高冲击擒抱。
+Defenders approach cautiously to contain the ball carrier.	防守球员谨慎靠近，限制持球者的行动。
+The truck starts from its parked position and drives through the dimly lit, dystopian environment.	卡车从停放位置起步，驶过昏暗的反乌托邦环境。
+The truck continues driving through the open environment without stopping.	卡车继续驶过开阔环境，不停车。
+The truck drives towards the glowing structure and stops in front of it.	卡车驶向发光建筑，并停在其前方。
+The truck drives through the dimly lit dystopian environment to reach the large structure with glowing lights.	卡车驶过昏暗的反乌托邦环境，前往一座带有发光灯具的大型建筑。
+The truck takes the most direct path with minimal deviation.	卡车走最直接的路径，尽量减少偏离。
+The truck takes a cautious indirect path avoiding hazards.	卡车谨慎地选择间接路径，避开危险。
+The truck drives forward through the dimly lit dystopian environment.	卡车在昏暗的反乌托邦环境中向前行驶。
+Drive slowly and steadily to maximize fuel conservation.	缓慢、平稳地驾驶，以尽可能节省燃料。
+Drive aggressively and rapidly to minimize traversal time.	猛烈、快速地驾驶，以尽量缩短通行时间。
+A player holding a gun stands at an alley corner with a map visible.	一名持枪玩家站在巷子拐角处，地图可见。
+Player turns corner to confront enemy.	玩家转过拐角，迎击敌人。
+Player turns away to retreat down alley.	玩家转身，沿巷子撤退。
+The player approaches the corner with a pistol to engage an approaching enemy.	玩家持手枪靠近拐角，准备迎击正在接近的敌人。
+Swiftly turn corner to immediately engage with direct fire.	迅速转过拐角，立即直接开火迎击。
+Stay behind cover and peek cautiously before attacking.	保持在掩体后，谨慎探头观察后再攻击。
+The player turns the corner to engage an approaching enemy while maintaining aim.	玩家保持瞄准，转过拐角迎击正在接近的敌人。
+Minimal body exposure while keeping behind cover.	保持在掩体后，尽量减少身体暴露。
+Full body exposure stepping into open alleyway.	走入开阔巷道，全身暴露。
+The player turns the corner in the alley and aims the pistol at the approaching enemy.	玩家转过巷子拐角，将手枪瞄准正在接近的敌人。
+Hold fire to conserve ammunition while assessing the threat.	评估威胁时暂不开火，以节省弹药。
+Immediately fire multiple shots to secure a kill.	立即连续射击多发，确保击杀。
+The purple alien converses with the pink alien in the living room.	紫色外星人在客厅里与粉色外星人交谈。
+The purple alien remains seated on the couch.	紫色外星人保持坐在沙发上。
+The purple alien stands up from the couch.	紫色外星人从沙发上站起来。
+The purple and pink aliens converse in the living room.	紫色和粉色外星人在客厅里交谈。
+Purple alien stays seated while pink alien stands.	紫色外星人保持坐着，粉色外星人站着。
+Pink alien sits down next to the purple alien.	粉色外星人在紫色外星人旁边坐下。
+The armored adventurer moves from the bottom of the wooden stairway.	穿盔甲的冒险者从木楼梯底部开始移动。
+The adventurer ascends the stairs towards the fortress.	冒险者沿楼梯向堡垒上行。
+The adventurer turns away and walks into the forest.	冒险者转身，走进森林。
+The armored adventurer moves from the stair base towards the stone fortress.	穿盔甲的冒险者从楼梯底部向石质堡垒移动。
+Ascends directly up the exposed wooden stairs.	直接沿暴露的木楼梯上行。
+Moves laterally through forest trees for cover.	横向移动，穿过林间树木以获得掩护。
+The armored adventurer ascends the wooden stairs towards the stone fortress at sunset.	日落时分，穿盔甲的冒险者沿木楼梯走向石质堡垒。
+Ascends directly and openly, prioritizing speed over concealment.	直接、公开地上行，优先速度而非隐蔽。
+Ascends slowly using foliage and shadows to minimize visibility.	缓慢上行，利用枝叶和阴影尽量降低可见度。
+The character in white runs along the foggy, deserted path in the rocky environment.	白衣角色在岩石环境中沿雾气笼罩、空无一人的小路奔跑。
+The character runs towards the ominous structure.	角色跑向那座阴森的建筑。
+The character runs away from the ominous structure.	角色朝远离那座阴森建筑的方向跑。
+The character moves along the foggy path towards the ominous structure.	角色沿雾气笼罩的小路向那座阴森的建筑移动。
+Run directly at full speed towards the structure.	全速直奔那座建筑。
+Move slowly using wooden structures for cover.	缓慢移动，利用木质建筑作掩护。
+The character in white moves along the foggy, rocky path towards the ominous structure.	白衣角色沿雾气笼罩的岩石小路，向那座阴森的建筑移动。
+The character sprints aggressively, prioritizing speed over stability.	角色奋力冲刺，优先速度而非稳定性。
+The character walks slowly, prioritizing safety and observation.	角色缓慢步行，优先安全和观察。
+The character in white moves along the foggy path towards the distant ominous structure.	白衣角色沿雾气笼罩的小路，向远处阴森的建筑移动。
+Sprint rapidly to minimize travel time at high energy cost.	快速冲刺，以较高能量消耗尽量缩短行进时间。
+Walk steadily to conserve stamina for the long journey.	稳定步行，为长途旅程节省耐力。
+The character in the red Hawaiian shirt walks on the blue platform towards the other character near the edge.	穿红色夏威夷衬衫的角色在蓝色平台上行走，走向边缘附近的另一名角色。
+The character reaches the other character and stands beside them.	角色走到另一名角色身边，并站在其旁边。
+The character stops midway to look at the landscape view.	角色在半路停下，观看风景。
+The character in the red Hawaiian shirt walks on the blue platform to reach the standing character near the edge.	穿红色夏威夷衬衫的角色沿蓝色平台行走，前往边缘附近站着的角色处。
+The character walks in a straight line directly towards the target.	角色沿直线直接走向目标。
+The character walks in a wide arc around the left side.	角色沿左侧绕宽大的弧线行走。
+The character in the red Hawaiian shirt walks on the blue platform towards the other character standing near the edge.	穿红色夏威夷衬衫的角色沿蓝色平台行走，走向边缘附近站着的另一名角色。
+The character stops at a safe distance from the platform edge.	角色停在距离平台边缘安全的位置。
+The character walks all the way to the platform edge.	角色一直走到平台边缘。
+Move directly and quickly to minimize time and distance.	直接、快速地移动，尽量减少时间和距离。
+Move slowly and leisurely to minimize physical effort and energy.	缓慢、悠闲地移动，尽量减少体力和能量消耗。
+RPG character stands ready with sword amidst fiery explosion and chaotic battlefield.	角色扮演游戏角色手持长剑，在火焰爆炸和混乱的战场中严阵以待。
+Character attacks enemies while remaining in the explosion.	角色留在爆炸范围内攻击敌人。
+Character turns away and runs out of the explosion.	角色转身跑出爆炸范围。
+RPG character stands near fiery explosion, targeting enemy to deal damage.	角色扮演游戏角色站在火焰爆炸附近，瞄准敌人以造成伤害。
+Character executes a powerful sword swing to strike the target directly.	角色挥出一记有力的剑击，直接打击目标。
+Character intensifies the explosion to damage the target without swinging.	角色不挥剑，而是加强爆炸来伤害目标。
+The RPG character swings a sword amidst a fiery explosion.	角色扮演游戏角色在火焰爆炸中挥剑。
+Character maintains close proximity to explosion center.	角色始终靠近爆炸中心。
+Character maintains distance from explosion center.	角色始终与爆炸中心保持距离。
+The RPG character engages in combat amidst a fiery explosion, remaining active and alive.	角色扮演游戏角色在火焰爆炸中战斗，保持活跃且存活。
+Character relies on low-cost physical sword attacks to conserve magical resources.	角色依靠消耗低的普通剑击，以节省魔法资源。
+Character expends high-cost magical abilities for maximum immediate damage output.	角色使用消耗高的魔法技能，以获得最大的即时伤害输出。
+A character stands in a post-combat grassy terrain with a waypoint marker and an inventory prompt visible.	战斗结束后，角色站在草地上，画面中可见路径点标记和物品栏提示。
+Character opens inventory screen to review gear and stats.	角色打开物品栏界面，查看装备和属性。
+Character runs towards the mission waypoint marker.	角色跑向任务路径点标记。
+The character is in a post-combat environment with a nearby inventory prompt and a distant waypoint, intending to manage resources or progress.	战斗结束后，角色附近有物品栏提示，远处有路径点，准备管理资源或推进进度。
+Interact immediately with the nearby inventory prompt to review gear.	立即与附近的物品栏提示交互，查看装备。
+Navigate towards the distant waypoint, delaying inventory access.	走向远处的路径点，推迟打开物品栏。
+The character stands in post-combat terrain near burning debris with a 'PLUM' prompt and gear icon visible.	战斗结束后，角色站在燃烧残骸附近，画面中可见“PLUM”提示和装备图标。
+Open inventory screen to review gear and stats immediately.	立即打开物品栏界面，查看装备和属性。
+Move to burning debris to interact with PLUM prompt.	走到燃烧的残骸处，与 PLUM 提示交互。
+Tanks on a grassy battlefield with craters utilize available weaponry in a strategic formation.	布满弹坑的草地战场上，坦克以战术队形使用可用武器。
+Tanks advance continuously towards the enemy base.	坦克持续向敌方基地推进。
+Tanks halt and engage an immediate flanking threat.	坦克停下，迎击眼前的侧翼威胁。
+The tanks advance towards the enemy base on the grassy battlefield without immediate combat.	坦克在草地战场上向敌方基地推进，暂未发生战斗。
+Advance in a tight, cohesive cluster formation.	以紧密、集中的队形推进。
+Advance in a spread out, staggered formation.	以分散、交错的队形推进。
+Tanks advance in formation towards the enemy base.	坦克以编队向敌方基地推进。
+Advance directly through open ground without seeking cover.	直接穿过开阔地推进，不寻找掩护。
+Maneuver to utilize craters and terrain for partial cover.	机动利用弹坑和地形获得部分掩护。
+Tanks advance towards the enemy base in a strategic formation.	坦克以战术队形向敌方基地推进。
+Advance slowly to conserve resources and minimize expenditure.	缓慢推进，以节省资源、尽量减少消耗。
+Advance rapidly to reach the goal quickly, expending resources.	快速推进以尽快到达目标，消耗资源。
+The armored warrior confronts the robed sorcerer in the ornate chamber regarding the spell.	穿盔甲的战士在装饰华丽的房间里就咒语一事与穿长袍的巫师对质。
+Warrior sternly demands spell reversal through verbal confrontation.	战士通过言语对质，严厉要求解除咒语。
+Warrior charges sorcerer to initiate immediate physical combat.	战士冲向巫师，立即展开肉搏战斗。
+The armored warrior confronts the sorcerer to stop the spell.	穿盔甲的战士与巫师对质，要求阻止咒语。
+Warrior demands spell reversal using intimidation without physical attack.	战士以威吓要求解除咒语，但不进行身体攻击。
+Warrior charges sorcerer to physically interrupt spellcasting.	战士冲向巫师，从身体上打断施法。
+The armored warrior verbally demands the sorcerer to reverse the spell in the mystical chamber.	穿盔甲的战士在神秘房间里口头要求巫师解除咒语。
+Warrior steps forward aggressively into immediate magical range.	战士咄咄逼人地上前，直接进入魔法攻击范围。
+Warrior maintains safe distance with guarded defensive stance.	战士保持安全距离，采取戒备的防御姿态。
+The armored warrior demands the sorcerer to reverse the spell in the chamber.	穿盔甲的战士在房间里要求巫师解除咒语。
+Warrior expends high magical resources to force spell reversal.	战士消耗大量魔法资源，强行解除咒语。
+Warrior conserves resources by relying solely on verbal demand.	战士仅靠口头要求，节省资源。
+A person manipulates strategy game cards on a playmat.	一个人在游戏垫上摆弄策略游戏卡牌。
+Cards are shuffled and consolidated into a single stack.	卡牌被洗匀并合成一叠。
+Cards are kept in separate, distinct stacks.	卡牌保持分成几叠，彼此分开。
+The player handles the stack of strategy game cards and sets the stack down on the playmat.	玩家拿起这叠策略游戏卡牌，并把它放到游戏垫上。
+The player performs a standard riffle shuffle to randomize the deck order.	玩家用标准的交错洗牌法洗牌，打乱牌序。
+The player sorts the deck by type or selects specific cards to the top.	玩家按类型整理牌组，或把特定卡牌放到最上面。
+A human agent manipulates the visible stacks of sleeved strategy game cards on the playmat surface.	一个人在游戏垫上摆弄几叠可见的、套了卡套的策略游戏卡牌。
+Carefully sort cards into neat, aligned piles without randomizing.	仔细把卡牌整理成整齐对齐的几叠，不打乱顺序。
+Vigorously shuffle cards into a single randomized deck quickly.	快速用力地洗牌，合成一副打乱的牌组。
+The adventurer moves physically within the misty mountainous cliffside environment while retaining their bow and arrows.	冒险者在雾气笼罩的山间悬崖环境中移动，始终带着弓箭。
+The adventurer stops at the cliff edge to gaze at the landscape.	冒险者停在悬崖边，眺望风景。
+The adventurer turns away and descends the rocky slope into the valley.	冒险者转身沿岩石斜坡下到山谷。
+The adventurer moves towards the cliff edge in the mountainous landscape.	冒险者在山地景观中走向悬崖边。
+Move slowly and deliberately while scanning the horizon.	缓慢、从容地移动，同时扫视地平线。
+Sprint briskly towards the edge with urgency.	急切地快速冲向悬崖边。
+The adventurer walks forward along the cliff path in the misty mountainous setting without falling.	冒险者在雾气笼罩的山间沿悬崖小路向前走，没有跌落。
+Walks directly along the immediate precipice with high exposure.	紧贴悬崖边缘直接行走，暴露程度高。
+Walks further inwards maintaining a significant safety distance.	走在更靠内侧的位置，与悬崖边保持明显的安全距离。
+RPG players in costumes gather around the central statue in the town square.	穿着服装的角色扮演游戏玩家聚集在城镇广场中央的雕像周围。
+Players approach in a relaxed, informal, and uncoordinated manner.	玩家们以轻松、随意、不协调的方式靠近。
+Players execute a coordinated maneuver forming a precise geometric formation.	玩家们协同行动，组成精确的几何队形。
+The car drives forward on a muddy, rain-soaked track with wipers active in a rural setting.	乡间，汽车开着雨刷，在泥泞、被雨水浸透的赛道上向前行驶。
+The car continues straight along the defined muddy track.	汽车沿明确的泥泞赛道继续直行。
+The car steers sharply right, leaving the track for grass.	汽车向右急转，驶离赛道开上草地。
+The car drives forward on the muddy, rain-soaked track with wipers active, aiming to traverse the course without leaving the drivable surface.	汽车开着雨刷，在泥泞、被雨水浸透的赛道上向前行驶，目标是跑完赛道且不驶出可行驶路面。
+The car maintains a central driving line through the middle of the track.	汽车保持在赛道正中的行驶路线上。
+The car hugs the left edge of the track, driving closer to the trees.	汽车紧贴赛道左侧边缘行驶，更靠近树木。
+The car drives on a muddy, rain-soaked track with active windshield wipers.	汽车开着挡风玻璃雨刷，在泥泞、被雨水浸透的赛道上行驶。
+Drive slowly to maximize traction and safety margin.	缓慢驾驶，以尽可能提高抓地力和安全余量。
+Drive aggressively with minimal safety margin for speed.	为追求速度而激进驾驶，安全余量很小。
+The player navigates the game menu interface using the top navigation bar to switch tabs.	玩家使用顶部导航栏切换标签页，浏览游戏菜单界面。
+Navigate to Crafting and Skills tabs.	切换到“制作”和“技能”标签页。
+Navigate to Survivors or Mailbox tabs.	切换到“幸存者”或“邮箱”标签页。
+The character navigates the menu interface to craft an energy pistol and review skills and objectives.	角色浏览菜单界面，制作一把能量手枪，并查看技能和目标。
+Craft the energy pistol immediately before checking skills or objectives.	先立即制作能量手枪，再查看技能或目标。
+Check skills and objectives before crafting the energy pistol.	先查看技能和目标，再制作能量手枪。
+The character navigates the menu to craft an energy pistol and eventually exits to resume gameplay.	角色在菜单中制作一把能量手枪，最终退出菜单继续游戏。
+Meticulously review skills and map details before exiting.	退出前仔细查看技能和地图细节。
+Skip skills and map review to exit immediately.	跳过技能和地图查看，立即退出。
+Character navigates inventory and menu tabs to manage loadout and review skills or map.	角色浏览物品栏和菜单标签页，管理装备配置并查看技能或地图。
+Consume materials to craft energy pistol for long-term capability.	消耗材料制作能量手枪，以获得长期能力。
+Skip crafting to preserve materials and optimize existing gear.	跳过制作以保留材料，优化现有装备。
+The adventurer runs forward through the lush jungle environment.	冒险者在茂密的丛林环境中向前奔跑。
+The adventurer stays strictly on the clear well-trodden path.	冒险者严格沿着清晰、常有人走的小路前进。
+The adventurer veers off into the dense surrounding foliage.	冒险者偏离小路，进入周围茂密的植被。
+The adventurer moves forward through the jungle environment without stopping or turning back.	冒险者在丛林中向前移动，不停下也不折返。
+Run swiftly down the center of the clear path.	沿清晰小路的中央快速奔跑。
+Move cautiously through dense foliage using cover.	借助掩护，谨慎地穿过茂密植被。
+The adventurer moves forward along the lush jungle path.	冒险者沿茂密的丛林小路向前移动。
+The adventurer runs quickly to minimize traversal time.	冒险者快速奔跑，尽量缩短通过时间。
+The adventurer walks steadily to conserve physical stamina.	冒险者稳定步行，以节省体力。
+The Voodoo Jester character stands on a forest path in a strategy game environment.	“巫毒小丑”角色站在策略游戏场景中的森林小路上。
+The character moves forward along the path.	角色沿小路向前移动。
+The character stops and remains in place.	角色停下，留在原地。
+The character moves through the forested area to traverse the terrain.	角色穿过林区，越过地形。
+The character moves along the open riverbank path.	角色沿开阔的河岸小路移动。
+The character moves into the dense forest interior.	角色进入茂密的森林深处。
+The character moves through the forested area near the water edge.	角色在水边附近的林区中移动。
+Move deep into the dense forest for maximum concealment.	深入茂密森林，以获得最大程度的隐蔽。
+Stay along the exposed edge near the water.	沿水边暴露的边缘行进。
+The character moves forward along the forested path in the strategy game.	角色在策略游戏中沿林间小路向前移动。
+Character moves without casting spells to conserve mana.	角色移动时不施放法术，以节省法力。
+Character casts spells while moving, spending mana.	角色边移动边施放法术，消耗法力。
+Two soccer players in blue and black striped jerseys are on the field after a goal.	进球后，两名身穿蓝黑条纹球衣的足球运动员在场上。
+Players continue celebrating the goal with physical interaction.	球员们继续庆祝进球，并有身体互动。
+Players stop celebrating and jog back to resume play.	球员们停止庆祝，慢跑回去继续比赛。
+Two soccer players in blue and black striped jerseys celebrate a goal on the field.	两名身穿蓝黑条纹球衣的足球运动员在场上庆祝进球。
+Players maintain the current kneeling and standing embrace pose.	球员们保持当前一跪一站的拥抱姿势。
+Players stand up and transition into running across the field.	球员们站起身，转为在场上奔跑。
+Two soccer players celebrate a goal on the pitch.	两名足球运动员在球场上庆祝进球。
+High duration and intensity celebration consuming time and energy.	庆祝时间长、强度高，耗费时间和体力。
+Low duration and intensity acknowledgement conserving time and energy.	简短、低强度地示意，节省时间和体力。
+The character navigates the shipping containers by jumping and moving across the industrial area.	角色在工业区中跳跃、移动，穿越集装箱。
+Prioritize preserving consumable health items (bandages) during navigation.	穿越时优先节省消耗性治疗物品（绷带）。
+Prioritize preserving ammunition resources during navigation.	穿越时优先节省弹药。
+The police car drives down the dimly lit urban street at night.	夜间，警车沿着灯光昏暗的城市街道行驶。
+Maintains moderate steady pace without activating emergency lights.	保持适中、稳定的速度行驶，不打开警灯。
+Accelerates rapidly while flashing blue and red sirens.	快速加速，同时闪烁蓝红警灯。
+The ego-vehicle follows the police car down a dimly lit urban street at night.	夜间，自车跟随警车沿灯光昏暗的城市街道行驶。
+Maintain a close following distance with minimal gap.	保持很近的跟车距离，间隙很小。
+Maintain a distant following distance to observe from a safe range.	保持较远的跟车距离，在安全距离外观察。
+The police car drives forward down the dimly lit urban street at night.	夜间，警车沿着灯光昏暗的城市街道向前行驶。
+The police car drives at a reduced speed with a large safety margin.	警车降低车速行驶，保持较大的安全余量。
+The police car accelerates and drives at a high speed.	警车加速并高速行驶。
+Drive at high speed to minimize travel time.	高速行驶，尽量缩短行驶时间。
+Drive at low speed to conserve fuel.	低速行驶，以节省燃油。
+The character in the pink outfit moves towards the console and makes contact with their head while background characters remain in place.	穿粉色服装的角色走向控制台，并用头部接触它，背景中的角色留在原地。
+High-intensity, rapid, and forceful motion with strong impact.	高强度、快速、有力的动作，冲击很强。
+Low-intensity, slow, and gentle motion with soft contact.	低强度、缓慢、轻柔的动作，接触很轻。
+The blue-haired character in pink reaches the console and physically interacts with it while being filmed.	穿粉色衣服的蓝发角色走到控制台前，在被拍摄的同时与它发生身体互动。
+Character violently head-bangs the console with exaggerated slapstick impact.	角色用头猛撞控制台，带有夸张的滑稽冲击效果。
+Character gently touches or operates the console without impact.	角色轻轻触碰或操作控制台，没有撞击。
+The elf girl speaks to someone off-screen with a concerned expression.	精灵女孩带着担忧的表情，对画面外的某人说话。
+Soft, slow-paced delivery with minimal head movement.	说话轻柔、语速慢，头部动作很少。
+Loud, rapid-paced delivery with jerky head movement.	说话大声、语速快，头部动作急促不连贯。
+The elf girl speaks to an off-screen agent with a concerned expression in a dimly lit brick room.	在灯光昏暗的砖墙房间里，精灵女孩带着担忧的表情，对画面外的人说话。
+She speaks with urgent, animated facial expressions and pronounced head movements.	她说话急切，面部表情生动，头部动作明显。
+She speaks in a hushed manner with minimal body and facial movements.	她压低声音说话，身体和面部动作很少。
+The robotic-armed person frees the woman from the black tendrils in the concrete chamber.	装着机械臂的人在混凝土房间中，把女子从黑色触须中解救出来。
+The robot moves with high velocity and force, rapidly ripping tendrils away.	机器人以很高的速度和力量动作，迅速扯开触须。
+The robot moves slowly and gently, carefully unwrapping tendrils from the woman.	机器人缓慢、轻柔地动作，小心地把触须从女子身上解开。
+The spaceship navigates through a colorful nebula containing debris.	宇宙飞船穿过一片含有碎片的彩色星云。
+High intensity, rapid, chaotic motion with strong visual turbulence.	高强度、快速、混乱的运动，视觉扰动强烈。
+Low intensity, slow, fluid motion with smooth, gentle turbulence.	低强度、缓慢、流畅的运动，扰动平滑、柔和。
+Wind blows through snow-laden trees on a mountainside, moving snowflakes.	风吹过山坡上积雪的树木，吹动雪花。
+High intensity wind causes rapid, dense, turbulent snow flow.	强风使雪花快速、密集、紊乱地飘动。
+Low intensity wind causes slow, sparse, gentle snow drift.	微风使雪花缓慢、稀疏、轻柔地飘落。
+The colossal stone snake coils around and crushes the ancient ruins.	巨大的石蛇缠绕并压碎古代遗迹。
+Fast, forceful, energetic motion causing rapid destruction.	快速、有力、充满能量的动作，迅速造成破坏。
+Slow, deliberate, heavy motion causing gradual compression.	缓慢、从容、沉重的动作，逐渐挤压。
+The warrior draws his sword and moves toward the group.	战士拔出剑，向那群人走去。
+High velocity, explosive acceleration, and high impact force.	高速、爆发式加速，冲击力很大。
+Low velocity, gradual acceleration, and controlled force.	低速、逐渐加速，力量受控。
+The warrior draws a sword and moves toward the other character in the indoor setting.	在室内场景中，战士拔出剑，向另一个角色走去。
+Shouts loudly and lunges forward with high intensity.	大声喊叫，以高强度向前猛冲。
+Advances silently with controlled, deliberate steps.	迈着受控、从容的步子，无声地前进。
+The character's expression shifts from sadness to determination.	角色的表情从悲伤转为坚定。
+Gradual, soft, and low-energy transition.	过渡渐进、柔和、低能量。
+Rapid, sharp, and high-energy transition.	过渡迅速、鲜明、高能量。
+A surreal glowing cube protrudes from a massive building while people gather below observing the spectacle.	一个超现实的发光立方体从一座巨大建筑中突出，人们聚在下方观看这一奇景。
+The cube emits a steady, slow, and calm pulsation of light.	立方体发出稳定、缓慢、平静的光脉动。
+The cube vibrates rapidly, erratically, and with high energy.	立方体快速、不规则、高能量地振动。
+The person sorts through the bundle of envelopes while exclaiming, 'This is terrible.'	这个人一边翻看一捆信封，一边喊道：“This is terrible.”（这太糟了。）
+Rapid, jerky, and forceful hand movements with high agitation.	手部动作快速、急促、有力，情绪非常激动。
+Slow, deliberate, and heavy hand movements with suppressed frustration.	手部动作缓慢、从容、沉重，压抑着挫败感。
+The couple maintains intimate forehead contact on the bridge at dusk.	黄昏时分，一对情侣在桥上保持额头相贴的亲密姿势。
+Static, gentle, and slow-paced movement.	静止、轻柔、节奏缓慢的动作。
+Active, energetic, and fast-paced movement.	活跃、充满活力、节奏快的动作。
+A couple stands close on a bridge at dusk, foreheads touching in an intimate moment.	黄昏时分，一对情侣在桥上靠得很近，额头相贴，气氛亲密。
+Maintain static forehead contact without breaking the intimate pose.	保持额头相贴、静止不动，不打破亲密姿势。
+Break contact to face each other and begin speaking.	分开接触，转为面对面并开始说话。
+The witch flies through the night sky on her broomstick, leaving a trail of sparkling particles behind.	女巫骑着扫帚飞过夜空，身后留下闪亮的粒子轨迹。
+Fast, energetic, and smooth flight with a strong sense of speed.	飞行快速、有活力且平稳，速度感很强。
+Slow, leisurely, and slightly unsteady flight with a relaxed pace.	飞行缓慢、悠闲、略有摇晃，节奏轻松。
+The character begins to laugh.	角色开始笑。
+High energy, rapid onset, large amplitude laughter.	笑得能量高、发作快、幅度大。
+Low energy, gradual onset, small amplitude laughter.	笑得能量低、逐渐开始、幅度小。
+Cherry blossom petals fall from the tree branches against a static background.	在静止的背景前，樱花花瓣从树枝上飘落。
+Petals drift slowly and smoothly with minimal lateral movement.	花瓣缓慢、平稳地飘落，横向移动很少。
+Petals fall rapidly and erratically, tumbling with high velocity.	花瓣快速、无规律地落下，高速翻滚。
+The blond character intensely gazes at the pink-haired boy in the hallway.	走廊里，金发角色专注地凝视着粉发男孩。
+Pink-haired boy looks back with visible emotional reaction.	粉发男孩回望，并有明显的情绪反应。
+Pink-haired boy remains oblivious or looks away.	粉发男孩没有察觉，或把目光移开。
+The text 'The Law of Ueki' fades in and out against a pink background with Japanese characters.	文字“The Law of Ueki”在带有日文字符的粉色背景上淡入淡出。
+Text flashes in and out rapidly with a snappy, energetic rhythm.	文字快速闪入闪出，节奏明快、有活力。
+Text fades in and out slowly and smoothly with a gentle pace.	文字缓慢、平滑地淡入淡出，节奏轻柔。
+The armored character turns their head to face the blonde character.	穿盔甲的角色转头看向金发角色。
+Slow, labored, and heavy head turn.	转头缓慢、吃力、沉重。
+Quick, sharp, and reactive head turn.	转头迅速、干脆、反应敏捷。
+The seated person reacts to a comedic noise with a physical startle.	坐着的人听到滑稽的声响，身体吓了一跳。
+High speed, high amplitude, exaggerated physical jerk.	速度快、幅度大、夸张的身体抽动。
+Low speed, low amplitude, subtle physical flinch.	速度慢、幅度小、轻微的身体退缩。
+The character stands in front of an illuminated computer screen in a dimly lit room and reacts to the screen.	在灯光昏暗的房间里，角色站在亮着的电脑屏幕前，对屏幕作出反应。
+The character reacts with smooth, continuous, and subtle low-amplitude motion.	角色以平滑、连续、细微的小幅动作作出反应。
+The character reacts with sharp, sudden, and high-impact high-amplitude motion.	角色以急促、突然、冲击强的大幅动作作出反应。
+The girl with ponytails sits dejectedly at the table contemplating unresolved feelings while the person in green stands by the open refrigerator.	扎双马尾的女孩沮丧地坐在桌旁，思索未解的心事；穿绿衣的人站在打开的冰箱旁。
+Girl fidgets, shifts weight, and moves restlessly while contemplating.	女孩思索时坐立不安，挪动身体，动来动去。
+Girl remains perfectly still and rigid while contemplating.	女孩思索时一动不动、身体僵直。
+A dejected girl sits at a table while a boy stands near an open refrigerator in the same room.	一个沮丧的女孩坐在桌旁，一个男孩站在同一房间里打开的冰箱旁。
+Boy stays by the refrigerator without approaching the girl.	男孩留在冰箱旁，不走近女孩。
+Boy approaches the table to initiate conversation with the girl.	男孩走到桌旁，主动与女孩交谈。
+The woman raises the helmet while maintaining a sinister smile.	女人举起头盔，脸上始终带着阴险的笑容。
+Slow, smooth, deliberate, low-force presentation.	缓慢、平稳、从容、用力小地展示。
+Fast, abrupt, high-force, energetic thrust.	快速、突然、用力大、充满能量地向前推出。
+The character with red hair turns his head to smile.	红发角色转过头微笑。
+Slow, smooth, and gentle head turn execution.	转头缓慢、平稳、轻柔。
+Fast, sharp, and energetic head turn execution.	转头快速、干脆、有活力。
+The red-haired character turns to face the girl in front of the TAKAMIYA building.	红发角色在 TAKAMIYA 大楼前转身面向女孩。
+He smiles broadly with an enthusiastic and open expression.	他笑容灿烂，表情热情、开朗。
+He maintains a neutral, serious, and closed expression.	他保持中性、严肃、封闭的表情。
+The character with pink hair speaks while looking up at the night sky.	粉发角色一边仰望夜空，一边说话。
+Fast, energetic, and dynamic facial movement with rapid articulation.	面部动作快速、有活力、富于变化，口型变化快。
+Slow, gentle, and restrained facial movement with subtle articulation.	面部动作缓慢、轻柔、克制，口型变化细微。
+The girl brings the snack to her mouth and takes a bite while the guard stands with a spear.	女孩把零食送到嘴边咬了一口，守卫持矛站着。
+Fast, energetic, and snappy motion.	动作快速、有活力、干脆。
+Slow, deliberate, and smooth motion.	动作缓慢、从容、平稳。
+The girl holds a snack near her mouth while a guard stands with a spear in the background.	女孩把零食拿在嘴边，背景中一名守卫持矛站着。
+Girl displays animated gestures and open-mouthed enthusiasm while holding snack.	女孩拿着零食，手势生动，张着嘴显得很兴奋。
+Girl displays restrained movements and closed-mouth quiet consumption of snack.	女孩动作克制，闭着嘴安静地吃零食。
+The girl in red stands from kneeling and moves down the dimly lit hallway.	穿红衣的女孩从跪姿站起，沿灯光昏暗的走廊移动。
+High velocity, rapid acceleration, energetic movement.	高速、快速加速、充满活力的移动。
+Low velocity, gradual acceleration, cautious movement.	低速、逐渐加速、谨慎的移动。
+The girl in red kneels to comfort the crouching boy in the dim hallway before running away.	在昏暗的走廊里，穿红衣的女孩先跪下安慰蹲着的男孩，然后跑开。
+Girl touches boy's shoulders and leans in close.	女孩触碰男孩的肩膀，并凑近他。
+Girl gestures without touching and maintains physical gap.	女孩只做手势、不触碰，保持身体距离。
+The girl transitions from a surprised expression to a gentle smile.	女孩的表情从惊讶变为温柔的微笑。
+Slow, gradual, and fluid transition to the smile.	缓慢、渐进、流畅地转为微笑。
+Fast, immediate, and sharp transition to the smile.	快速、立即、突然地转为微笑。
+The girl raises the sword sheath and grips the handle.	女孩举起剑鞘，握住剑柄。
+Fast, abrupt, and high-energy motion.	快速、突然、高能量的动作。
+The girl in green raises and grips the sword handle while the girl in the dark uniform stands nearby in the outdoor setting.	户外场景中，穿绿衣的女孩举起并握住剑柄，穿深色制服的女孩站在旁边。
+Girl in green acknowledges companion; both shift stance to face each other.	穿绿衣的女孩注意到同伴，两人都调整站姿，面向对方。
+Girl in green ignores companion; dark uniform girl remains still and facing forward.	穿绿衣的女孩不理会同伴；穿深色制服的女孩保持静止，面朝前方。
+The character rides a motorcycle towards the large wall.	角色骑摩托车驶向那堵高大的墙。
+Ride with high velocity, rapid acceleration, and high energy.	高速、快速加速、充满活力地骑行。
+Ride with low velocity, slow steady pace, and low energy.	低速、缓慢稳定、低能量地骑行。
+The character in the green cloak confronts the man in the top hat in the dimly lit room with cages.	在昏暗的、放着笼子的房间里，穿绿色斗篷的角色与戴高礼帽的男子对峙。
+High intensity, rapid movements, and aggressive force.	高强度、快速的动作，力量具有攻击性。
+Low intensity, slow movements, and restrained force.	低强度、缓慢的动作，力量克制。
+The character in the green cloak confronts the man in the top hat holding a staff in a dimly lit room with cages.	在昏暗的、放着笼子的房间里，穿绿色斗篷的角色与手持手杖、戴高礼帽的男子对峙。
+Character aggressively lunges forward to physically attack the man.	角色猛地向前扑去，对男子进行身体攻击。
+Character maintains stationary guarded stance for tense verbal exchange.	角色保持原地不动的戒备姿态，进行紧张的言语交锋。
+The girl in red makes a triumphant expression, and the girl with pigtails reacts happily while both remain seated outdoors.	在户外，穿红衣的女孩露出得意的表情，扎双马尾的女孩开心地回应，两人都坐着。
+High energy, rapid, and exaggerated facial motion.	面部动作能量高、快速、夸张。
+Low energy, slow, and subtle facial motion.	面部动作能量低、缓慢、细微。
+The girl in red smiles triumphantly while the girl in pink reacts.	穿红衣的女孩得意地笑，穿粉衣的女孩作出反应。
+Girl in pink mirrors excitement with a wide, happy smile.	穿粉衣的女孩同样兴奋，露出灿烂开心的笑容。
+Girl in pink remains passive with a small, polite smile.	穿粉衣的女孩表现被动，只是礼貌地微微一笑。
+The chef throws the red tomato with a determined expression against a blue sky.	以蓝天为背景，厨师带着坚定的表情扔出红番茄。
+High velocity, explosive force, and rapid acceleration.	高速、爆发力强、快速加速。
+Low velocity, gentle force, and smooth deceleration.	低速、力量轻柔、平稳减速。
+A person sits on the floor next to a motorcycle inside a dimly lit cell.	一个人坐在昏暗牢房的地上，旁边有一辆摩托车。
+The person remains seated with minimal movement and slow pacing.	这个人保持坐姿，动作很少、节奏缓慢。
+The person stands up and mounts the motorcycle with rapid motion.	这个人迅速站起来，跨上摩托车。
+The character tilts the metallic surface upwards to reveal the reflection of their surprised face.	角色把金属表面向上倾斜，露出自己惊讶表情的倒影。
+Smooth, controlled, and gradual upward movement.	平稳、受控、渐进地向上移动。
+Abrupt, jerky, and high-energy upward movement.	突然、急促、高能量地向上移动。
+The character falls asleep while staring at the sky, with eyelids closing until eyes are shut.	角色凝望天空时睡着了，眼皮慢慢合上直到闭眼。
+Eyelids flutter gently and close over a sustained period.	眼皮轻轻颤动，在较长一段时间里慢慢合上。
+Eyes snap shut immediately in a sudden motion.	眼睛猛地一下子闭上。
+The taller character hugs the shorter character while both express surprise.	较高的角色拥抱较矮的角色，两人都表现出惊讶。
+Sudden, rapid acceleration into a rigid, high-force tight hug.	突然、快速地加速，变成僵硬、用力很大的紧紧拥抱。
+Slow, gradual acceleration into a soft, yielding gentle hug.	缓慢、逐渐地加速，变成柔软、放松的轻柔拥抱。
+The taller character initiates a hug with the shorter character in front of the wooden door.	在木门前，较高的角色主动拥抱较矮的角色。
+The taller character squeezes the shorter character tightly with significant force.	较高的角色用很大的力气紧紧抱住较矮的角色。
+The taller character maintains a loose, gentle embrace without applying pressure.	较高的角色保持宽松、轻柔的拥抱，不施加压力。
+The character charges forward from the current position.	角色从当前位置向前冲锋。
+Explosive, high-velocity burst with immediate acceleration.	爆发式的高速冲出，立即加速。
+Heavy, momentum-building advance with gradual acceleration.	沉重地逐步积累动量推进，逐渐加速。
+The character in the beige hoodie engages in a tense conversation in front of the dark curtain.	穿米色连帽衫的角色在深色帘子前进行一场紧张的对话。
+Explosive shouting with rapid movements and high physical energy.	爆发式地大喊，动作快速，身体能量很高。
+Controlled speaking with slower pacing and restrained body language.	有控制地说话，节奏较慢，肢体语言克制。
+A girl with blonde hair stands on a balcony holding a juice box, gazing at the sunset over the ocean.	一个金发女孩站在阳台上，拿着一盒果汁，眺望海上的日落。
+Minimal movement; only subtle slow sway of hair and juice box.	动作很少；只有头发和果汁盒轻微、缓慢地晃动。
+Vigorous swig, quick body turn, hand gestures, and rapid hair motion.	大口猛喝，迅速转身，配合手势，头发快速摆动。
+The character opens their eyes while orange sparkles appear around their face.	角色睁开眼睛，脸部周围出现橙色闪光。
+Eyes open slowly and gently with soft, gradual sparkles.	眼睛缓慢、轻柔地睁开，闪光柔和、逐渐出现。
+Eyes snap open suddenly with a burst of intense sparkles.	眼睛猛地睁开，同时迸发出强烈的闪光。
+The girl closes her eyes and then opens them.	女孩闭上眼睛，然后睁开。
+The girl opens her eyes with a fast, sharp, energetic motion.	女孩以快速、干脆、有活力的动作睁开眼睛。
+The girl opens her eyes with a slow, gradual, smooth motion.	女孩以缓慢、渐进、平滑的动作睁开眼睛。
+The character raises his hand to touch his own ear.	角色抬手触摸自己的耳朵。
+Slow, fluid, and low-energy motion.	动作缓慢、流畅、低能量。
+Fast, sharp, and high-energy motion.	动作快速、干脆、高能量。
